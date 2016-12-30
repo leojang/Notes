@@ -4,3 +4,6 @@ https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-
 
 # Machine Learning
 https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-outside-academia
+
+# Testing
+https://dotblogs.com.tw/hatelove/2016/03/28/compare-object-equality-with-expected-objects
