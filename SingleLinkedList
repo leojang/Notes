@@ -1,3 +1,0 @@
-AddNodeAfterKth(Node node, int index)
-
-1. Check if there is node with given index
