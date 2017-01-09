@@ -22,3 +22,6 @@ http://www.economist.com/blogs/economist-explains
 # Ideas
 https://aeon.co/
 http://www.nytimes.com/2017/01/07/opinion/sunday/yes-its-your-parents-fault.html?_r=0
+
+# C#
+https://msdn.microsoft.com/en-us/library/mt632260.aspx
