@@ -25,4 +25,5 @@ http://www.nytimes.com/2017/01/07/opinion/sunday/yes-its-your-parents-fault.html
 
 # C Sharp
 https://msdn.microsoft.com/en-us/library/mt632260.aspx
+
 Predicate Delegates
