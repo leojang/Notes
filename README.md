@@ -14,3 +14,6 @@ http://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-re
 
 # Angular 2
 http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
+
+# Economics
+http://www.economist.com/blogs/economist-explains
