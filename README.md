@@ -24,5 +24,5 @@ https://aeon.co/
 http://www.nytimes.com/2017/01/07/opinion/sunday/yes-its-your-parents-fault.html?_r=0
 
 # C Sharp
-https://www.codeproject.com/articles/114931/understanding-predicate-delegates-in-c
+https://www.codeproject.com/articles/114931/understanding-predicate-delegates-in-c                     
 https://msdn.microsoft.com/en-us/library/mt632260.aspx
