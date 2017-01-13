@@ -20,3 +20,5 @@ Function declarations are not part of the regular top-to-bottom flow of control.
 JavaScript is extremely broad-minded about the number of arguments you pass to a function.                                                
 If you pass too many, the extra ones are ignored.                                                                                         
 If you pass too few, the missing parameters simply get assigned the value undefined.
+
+#Closure
