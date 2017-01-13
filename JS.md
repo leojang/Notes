@@ -7,16 +7,16 @@ There is only one value in JavaScript that is not equal to itself, and that is N
 
 The difference in meaning between undefined and null is an accident of JavaScript’s design
 
-type coercion
-console.log(8 * null)                                                                     
-// → 0                                                                    
-console.log("5" - 1)                                                                    
-// → 4                                                                    
-console.log("5" + 1)                                                                    
-// → 51                                                                    
-console.log("five" * 2)                                                                    
-// → NaN                                                                    
-console.log(false == 0)                                                                    
-// → true                                                                    
+type coercion                                                                                                   
+console.log(8 * null)                                                                                                   
+// → 0                                                                                                   
+console.log("5" - 1)                                                                                                   
+// → 4                                                                                                   
+console.log("5" + 1)                                                                                                   
+// → 51                                                                                                   
+console.log("five" * 2)                                                                                                   
+// → NaN                                                                                                   
+console.log(false == 0)                                                                                                   
+// → true                                                                                                   
 
 When null or undefined occurs on either side of the operator, it produces true only if both sides are one of null or undefined.
