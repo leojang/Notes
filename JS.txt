@@ -1,3 +1,0 @@
-Whenever a backslash (\) is found inside quoted text, it indicates that the character after it has a special meaning. 
-This is called escaping the character.
-
