@@ -24,15 +24,13 @@ If you pass too few, the missing parameters simply get assigned the value undefi
 #Closure
 This feature—being able to reference a specific instance of local variables in an enclosing function—is called closure.
 
-function wrapValue(n) 
-{  
-    var localVariable = n;  
-    return function() 
-    { 
-    return localVariable; };
-}
-
-var wrap1 = wrapValue(1);
-var wrap2 = wrapValue(2);
-console.log(wrap1());// → 1
-console.log(wrap2());// → 2
+function wrapValue(n)                                                                                                                   
+{                                                                                                                                       
+    var localVariable = n;                                                                                                              
+    return function() { return localVariable; };                                                                                        
+}                                                                                                                                       
+                                                                                                                                        
+var wrap1 = wrapValue(1);                                                                                                               
+var wrap2 = wrapValue(2);                                                                                                               
+console.log(wrap1());// → 1                                                                                                             
+console.log(wrap2());// → 2                                                                                                             
