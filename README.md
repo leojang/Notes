@@ -29,3 +29,11 @@ https://msdn.microsoft.com/en-us/library/mt632260.aspx
 
 # Data Scientist
 http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free
+
+# Personal
+http://nymag.com/scienceofus/2017/01/how-to-change-your-personality.html
+http://nymag.com/scienceofus/2017/01/5-things-to-remember-to-change-your-life-for-the-better.html
+http://nymag.com/scienceofus/2017/01/to-change-your-life-learn-how-to-trust-your-future-self.html
+
+# Fun
+http://users.telenet.be/d.rijmenants/en/enigmatech.htm
