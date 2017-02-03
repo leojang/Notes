@@ -30,6 +30,7 @@ https://msdn.microsoft.com/en-us/library/mt632260.aspx
 
 # Data Scientist
 http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free
+http://datasciencemasters.org/
 
 # Personal
 http://nymag.com/scienceofus/2017/01/how-to-change-your-personality.html
