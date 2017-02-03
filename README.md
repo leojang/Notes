@@ -16,7 +16,7 @@ https://dotblogs.com.tw/hatelove/2016/03/28/compare-object-equality-with-expecte
 http://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-resources.aspx
 https://www.quora.com/What-are-some-websites-similar-to-Coursera                                                                        
 https://www.quora.com/What-are-the-best-free-online-resources-for-learning-computer-science                                             
-http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
+http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html                                                             http://matt.might.net/articles/what-cs-majors-should-know/
 
 # Angular 2
 http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
