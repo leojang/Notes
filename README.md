@@ -5,6 +5,9 @@ Coursera, Edx, Udemy, CodeSchool, TreeHouse
 https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms
 https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-about-algorithms                                       Algorithm Design" by Kleinberg and Tardos 
 
+# Data Structure
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/
+
 # Machine Learning
 https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-outside-academia
 http://deeplearning.stanford.edu/tutorial/
