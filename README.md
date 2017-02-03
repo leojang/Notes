@@ -33,7 +33,7 @@ https://www.codeproject.com/articles/114931/understanding-predicate-delegates-in
 https://msdn.microsoft.com/en-us/library/mt632260.aspx
 
 # Data Scientist
-http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free
+http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free                                                
 http://datasciencemasters.org/
 
 # Personal
