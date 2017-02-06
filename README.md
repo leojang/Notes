@@ -30,8 +30,7 @@ http://www.economist.com/blogs/economist-explains
 # Ideas
 https://aeon.co/
 http://www.nytimes.com/2017/01/07/opinion/sunday/yes-its-your-parents-fault.html?_r=0
-http://theconversation.com                                                                                                             http://www.vox.com/2017/2/3/14501032/super-bowl-commercials-ads-explained
-
+http://theconversation.com                                                                                                             http://www.vox.com/2017/2/3/14501032/super-bowl-commercials-ads-explained                                                               http://ben-evans.com/benedictevans/2017/01/11/wrongquestions
 # C Sharp
 https://www.codeproject.com/articles/114931/understanding-predicate-delegates-in-c                     
 https://msdn.microsoft.com/en-us/library/mt632260.aspx
@@ -46,4 +45,4 @@ http://nymag.com/scienceofus/2017/01/5-things-to-remember-to-change-your-life-fo
 http://nymag.com/scienceofus/2017/01/to-change-your-life-learn-how-to-trust-your-future-self.html
 
 # Fun
-http://users.telenet.be/d.rijmenants/en/enigmatech.htm                                                                                 http://ben-evans.com/benedictevans/2017/01/11/wrongquestions
+http://users.telenet.be/d.rijmenants/en/enigmatech.htm                                                                                 
