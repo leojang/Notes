@@ -46,4 +46,7 @@ http://nymag.com/scienceofus/2017/01/5-things-to-remember-to-change-your-life-fo
 http://nymag.com/scienceofus/2017/01/to-change-your-life-learn-how-to-trust-your-future-self.html
 
 # Fun
-http://users.telenet.be/d.rijmenants/en/enigmatech.htm                                                                                 
+http://users.telenet.be/d.rijmenants/en/enigmatech.htm  
+
+# Go
+https://gowebexamples.github.io/
