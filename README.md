@@ -29,7 +29,7 @@ http://www.economist.com/blogs/economist-explains
 
 # Ideas
 https://aeon.co/                                                                                                                        
-http://www.nytimes.com/2017/01/07/opinion/sunday/yes-its-your-parents-fault.html?_r=0
+http://www.nytimes.com/2017/01/07/opinion/sunday/yes-its-your-parents-fault.html?_r=0                                                   
 http://theconversation.com                                                                                                             http://www.vox.com/2017/2/3/14501032/super-bowl-commercials-ads-explained                                                               http://ben-evans.com/benedictevans/2017/01/11/wrongquestions                                                                           https://www.nytimes.com/2017/02/02/science/sleep-memory-brain-forgetting.html?_r=0                                                     http://www.nature.com/nature/journal/v542/n7639/full/nj7639-127a.html
 
 # C Sharp
