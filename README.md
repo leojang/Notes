@@ -22,6 +22,8 @@ http://deeplearning.stanford.edu/tutorial/
 
 https://github.com/terryum/awesome-deep-learning-papers
 
+# JavaScript
+https://risingstars2016.js.org/
 
 # Testing
 https://dotblogs.com.tw/hatelove/2016/03/28/compare-object-equality-with-expected-objects
@@ -75,3 +77,7 @@ https://www.brentozar.com/archive/2013/02/7-things-developers-should-know-about-
 
 # HTML
 http://htmlreference.io/
+
+# EC2
+https://www.expeditedssl.com/aws-in-plain-english
+
