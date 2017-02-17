@@ -3,8 +3,7 @@ Coursera, Edx, Udemy, CodeSchool, TreeHouse
 
 # Algorithm
 https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms
-https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-about-algorithms                                       Algorithm Design" by Kleinberg and Tardos 
-https://illustrated-algorithms.now.sh/quicksort 
+https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-about-algorithms                                       Algorithm Design" by Kleinberg and Tardos                                                                             https://illustrated-algorithms.now.sh/quicksort 
 
 # Data Structure
 https://www.cs.cmu.edu/~adamchik/15-121/lectures/
