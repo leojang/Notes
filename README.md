@@ -14,6 +14,7 @@ https://www.cs.cmu.edu/~adamchik/15-121/lectures/
 # Machine Learning
 https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-outside-academia
 http://deeplearning.stanford.edu/tutorial/
+
 https://github.com/terryum/awesome-deep-learning-papers
 
 
