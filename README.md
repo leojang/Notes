@@ -38,6 +38,7 @@ http://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-re
 https://www.quora.com/What-are-some-websites-similar-to-Coursera                                                                        
 https://www.quora.com/What-are-the-best-free-online-resources-for-learning-computer-science                                             
 http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html                                                             http://matt.might.net/articles/what-cs-majors-should-know/                                                                             https://www.quora.com/What-are-the-best-free-online-resources-for-learning-computer-science                                             
+https://dotblogs.com.tw/regionbbs/archive/2011/05/08/%2024513.aspx
 
 # Angular 2
 http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
@@ -51,16 +52,16 @@ http://www.nytimes.com/2017/01/07/opinion/sunday/yes-its-your-parents-fault.html
 http://theconversation.com                                                                                                             http://www.vox.com/2017/2/3/14501032/super-bowl-commercials-ads-explained                                                               http://ben-evans.com/benedictevans/2017/01/11/wrongquestions                                                                           https://www.nytimes.com/2017/02/02/science/sleep-memory-brain-forgetting.html?_r=0                                                     http://www.nature.com/nature/journal/v542/n7639/full/nj7639-127a.html                                                                   https://www.theguardian.com/help/2016/sep/19/how-to-contact-the-guardian-securely                                                       http://sciencebulletin.org/                                                                                                           https://www.nytimes.com/interactive/2017/02/11/obituaries/smullyan-logic-puzzles.html                                                 https://blog.nugget.one/                                                                                                              
 https://www.destroyallsoftware.com/screencasts                                                                                          
 http://nautil.us/                                                                                                                       http://abstractions.nautil.us/article/141/the-hidden-twist-to-making-a-moebius-strip
-
+https://dotblogs.com.tw/regionbbs/archive/2011/05/08/%2024513.aspx
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
 https://nplusonemag.com/online-only/online-only/fear-frying/
 
-
 # C Sharp
 https://www.codeproject.com/articles/114931/understanding-predicate-delegates-in-c                     
 https://msdn.microsoft.com/en-us/library/mt632260.aspx
+https://mva.microsoft.com/
 
 # Data Scientist
 http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free                                                
