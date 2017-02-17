@@ -63,3 +63,5 @@ https://gowebexamples.github.io/
 # SQL
 https://www.brentozar.com/archive/2013/02/7-things-developers-should-know-about-sql-server/
 
+# HTML
+http://htmlreference.io/
