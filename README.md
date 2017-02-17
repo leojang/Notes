@@ -11,7 +11,7 @@ https://illustrated-algorithms.now.sh/quicksort
 https://www.khanacademy.org/computing/computer-science/algorithms/
 http://www.cs.cornell.edu/courses/cs4820/2014sp/lectures/
 http://www.programcreek.com/
-
+https://read01.com/oLKDAQ.html
 
 # Design Patterns
 https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
