@@ -9,6 +9,8 @@ https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data
 https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-about-algorithms                                       Algorithm Design" by Kleinberg and Tardos                                                                                              
 https://illustrated-algorithms.now.sh/quicksort                                                                                         
 https://www.khanacademy.org/computing/computer-science/algorithms/
+http://www.cs.cornell.edu/courses/cs4820/2014sp/lectures/
+
 
 # Design Patterns
 https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
@@ -19,8 +21,9 @@ https://www.cs.cmu.edu/~adamchik/15-121/lectures/
 # Machine Learning
 https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-outside-academia
 http://deeplearning.stanford.edu/tutorial/
-http://cpmarkchang.logdown.com/archives
 https://github.com/terryum/awesome-deep-learning-papers
+http://cpmarkchang.logdown.com/archives
+
 
 # JavaScript
 https://risingstars2016.js.org/
