@@ -1,3 +1,6 @@
+# Quotes
+ "Simplicity is a prerequisite for reliability". - Edsger W. Dijkstra
+ 
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
 
