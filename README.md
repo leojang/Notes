@@ -23,6 +23,7 @@ https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-
 http://deeplearning.stanford.edu/tutorial/
 https://github.com/terryum/awesome-deep-learning-papers
 http://cpmarkchang.logdown.com/archives
+http://www.forbes.com/sites/siemenshealthineers/2017/02/10/new-healthcare-model-reframes-relationships-risk-sharing-between-providers-and-companies/#6e5e57d35bec
 
 
 # JavaScript
