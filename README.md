@@ -7,6 +7,8 @@ https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-
 https://illustrated-algorithms.now.sh/quicksort                                                                                         
 https://www.khanacademy.org/computing/computer-science/algorithms/
 
+# Design Patterns
+https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
 
 # Data Structure
 https://www.cs.cmu.edu/~adamchik/15-121/lectures/
