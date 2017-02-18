@@ -41,6 +41,8 @@ http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html Â  Â
 https://dotblogs.com.tw/regionbbs/archive/2011/05/08/%2024513.aspx                                                                      
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
 
+# Microsoft Docs
+https://docs.microsoft.com/en-us/aspnet/entity-framework
 
 # Angular 2
 http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
