@@ -38,7 +38,7 @@ http://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-re
 https://www.quora.com/What-are-some-websites-similar-to-Coursera                                                                        
 https://www.quora.com/What-are-the-best-free-online-resources-for-learning-computer-science                                             
 http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html                                                             http://matt.might.net/articles/what-cs-majors-should-know/                                                                             https://www.quora.com/What-are-the-best-free-online-resources-for-learning-computer-science                                             
-https://dotblogs.com.tw/regionbbs/archive/2011/05/08/%2024513.aspx
+https://dotblogs.com.tw/regionbbs/archive/2011/05/08/%2024513.aspx                                                                      
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
 
 
