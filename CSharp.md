@@ -19,10 +19,10 @@ https://msdn.microsoft.com/en-us/library/cc138361.aspx
 http://www.codeproject.com/Tips/1058613/How-to-Write-Good-Code
 http://www.codeproject.com/Articles/1094359/Mastering-Csharp-Lecture-Notes-Part-of
 http://www.codeproject.com/Articles/1032135/Multithreading-in-Csharp-NET-Part
-http://www.codeproject.com/Articles/1112919/MVVM-for-beginners
+http://www.codeproject.com/Articles/1112919/MVVM-for-beginners                                                                          
 http://www.codeproject.com/Articles/1137299/Object-Oriented-Analysis-and-Design
 http://www.codeproject.com/Articles/1094829/Professional-techniques-for-Csharp-Lecture-Notes-P
-https://msdn.microsoft.com/en-us/library/mt632260.aspx 
+https://msdn.microsoft.com/en-us/library/mt632260.aspx                                                                                  
 http://www.codeproject.com/Articles/1083787/Tasks-and-Task-Parallel-Library-TPL-Multi-threadin
 http://www.codeproject.com/Articles/1130886/The-Software-Development-Process-Science-Engineeri
 http://www.codeproject.com/script/Articles/TopArticles.aspx?ta_so=5&ta_ufd=3+Nov+2015&ta_utd=18+Nov+2016&ta_pfd=3+Nov+2015&ta_ptd=18+Nov+2016&ta_ats=1%2c3%2c6%2c8&pgnum=5
