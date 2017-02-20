@@ -27,4 +27,5 @@ http://www.codeproject.com/Articles/1083787/Tasks-and-Task-Parallel-Library-TPL-
 http://www.codeproject.com/Articles/1130886/The-Software-Development-Process-Science-Engineeri
 http://www.codeproject.com/script/Articles/TopArticles.aspx?ta_so=5&ta_ufd=3+Nov+2015&ta_utd=18+Nov+2016&ta_pfd=3+Nov+2015&ta_ptd=18+Nov+2016&ta_ats=1%2c3%2c6%2c8&pgnum=5
 http://www.codeproject.com/Articles/1087568/Visualization-and-Comparison-of-sorting-algorith
-
+https://dotblogs.com.tw/lastsecret/archive/2010/02/25/13757.aspx
+https://www.codeproject.com/articles/76153/six-important-net-concepts-stack-heap-value-types
