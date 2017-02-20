@@ -93,3 +93,8 @@ http://htmlreference.io/
 # EC2
 https://www.expeditedssl.com/aws-in-plain-english
 
+# Gaming
+http://www-cs-students.stanford.edu/~amitp/gameprog.html
+
+# C++
+https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything
