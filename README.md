@@ -26,6 +26,8 @@ https://github.com/terryum/awesome-deep-learning-papers
 http://cpmarkchang.logdown.com/archives
 http://www.forbes.com/sites/siemenshealthineers/2017/02/10/new-healthcare-model-reframes-relationships-risk-sharing-between-providers-and-companies/#6e5e57d35bec
 
+# Java
+http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
 
 # JavaScript
 https://risingstars2016.js.org/
