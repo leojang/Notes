@@ -15,7 +15,7 @@ http://www.codeproject.com/Articles/1082982/Factory-and-Strategy-Pattern-Explain
 http://www.codeproject.com/Articles/1118828/Faster-than-Reflection-Delegates-Part
 http://www.codeproject.com/Articles/1104555/Function-Decorator-Pattern-Reanimation-of-Function
 http://www.codeproject.com/Articles/781213/Fundamentals-of-Image-Processing-behind-the-scenes
-https://msdn.microsoft.com/en-us/library/cc138361.aspx
+https://msdn.microsoft.com/en-us/library/cc138361.aspx                                                                                  
 http://www.codeproject.com/Tips/1058613/How-to-Write-Good-Code
 http://www.codeproject.com/Articles/1094359/Mastering-Csharp-Lecture-Notes-Part-of
 http://www.codeproject.com/Articles/1032135/Multithreading-in-Csharp-NET-Part
