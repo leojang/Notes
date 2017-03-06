@@ -60,8 +60,8 @@ https://www.destroyallsoftware.com/screencasts
 http://nautil.us/                                                                                                                       http://abstractions.nautil.us/article/141/the-hidden-twist-to-making-a-moebius-strip
 https://dotblogs.com.tw/regionbbs/archive/2011/05/08/%2024513.aspx
 https://techcrunch.com/2017/02/15/pixar-offers-free-online-lessons-in-storytelling-via-khan-academy/?sr_share=facebook&utm_content=buffer4fe1a&utm_medium=buffer_social&utm_source=twitter&utm_campaign=buffer_updates
-http://www.clearerthinking.org/                                                                                                         
-http://10.1.5.35:15871/cgi-bin/blockpage.cgi?ws-session=129165036
+http://www.clearerthinking.org/                                                                                                         https://medium.com/m/global-identity?redirectUrl=https://tech.affirm.com/deep-di 
+ve-payments-60f5d17f6c71
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
