@@ -42,6 +42,7 @@ https://www.quora.com/What-are-the-best-free-online-resources-for-learning-compu
 http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html                                                             http://matt.might.net/articles/what-cs-majors-should-know/                                                                             https://www.quora.com/What-are-the-best-free-online-resources-for-learning-computer-science                                             
 https://dotblogs.com.tw/regionbbs/archive/2011/05/08/%2024513.aspx                                                                      
 https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-science
+https://dotblogs.com.tw/atowngit/archive/2010/06/10/15783.aspx
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
