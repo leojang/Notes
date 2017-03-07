@@ -78,6 +78,7 @@ https://mva.microsoft.com/
 # Data Scientist
 http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free                                                
 http://datasciencemasters.org/
+http://tdhopper.com/blog/2017/Mar/06/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/
 
 # Personal
 http://nymag.com/scienceofus/2017/01/how-to-change-your-personality.html
