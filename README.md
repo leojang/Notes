@@ -39,6 +39,7 @@ https://risingstars2016.js.org/
 https://dotblogs.com.tw/hatelove/2016/03/28/compare-object-equality-with-expected-objects
 
 # Self Learning
+https://news.ycombinator.com/item?id=13816627
 http://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-resources.aspx
 https://www.quora.com/What-are-some-websites-similar-to-Coursera                                                                        
 https://www.quora.com/What-are-the-best-free-online-resources-for-learning-computer-science                                             
