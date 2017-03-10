@@ -73,6 +73,7 @@ http://www.clearerthinking.org/                                 
 ve-payments-60f5d17f6c71
 https://www.theguardian.com/business/2017/mar/07/the-north-face-patagonia-saving-world-one-puffer-jacket-at-a-time
 http://www.bbc.com/news/in-pictures-39040237
+http://www.mattfriz.com/#/outbursts/tech-interview-torture-chamber
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
