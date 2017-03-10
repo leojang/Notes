@@ -72,6 +72,7 @@ https://techcrunch.com/2017/02/15/pixar-offers-free-online-lessons-in-storytelli
 http://www.clearerthinking.org/                                                                                                         https://medium.com/m/global-identity?redirectUrl=https://tech.affirm.com/deep-di 
 ve-payments-60f5d17f6c71
 https://www.theguardian.com/business/2017/mar/07/the-north-face-patagonia-saving-world-one-puffer-jacket-at-a-time
+http://www.bbc.com/news/in-pictures-39040237
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
