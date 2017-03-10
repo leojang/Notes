@@ -50,6 +50,9 @@ https://github.com/stanislaw/awesome-safety-critical
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
 
+# System Design
+https://github.com/donnemartin/system-design-primer#remote-procedure-call-rpc
+
 # Angular 2
 http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
 
