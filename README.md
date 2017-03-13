@@ -58,6 +58,7 @@ https://github.com/blog/2322-how-cs50-at-harvard-uses-github-to-teach-computer-s
 https://dotblogs.com.tw/atowngit/archive/2010/06/10/15783.aspx
 https://github.com/stanislaw/awesome-safety-critical
 https://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/?2
+https://edu.google.com/cs/index.html
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
@@ -93,6 +94,7 @@ https://nplusonemag.com/online-only/online-only/fear-frying/
 https://www.codeproject.com/articles/114931/understanding-predicate-delegates-in-c                     
 https://msdn.microsoft.com/en-us/library/mt632260.aspx
 https://mva.microsoft.com/
+https://msdn.microsoft.com/en-us/library/mt693024.aspx
 
 # Data Scientist
 http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free                                                
