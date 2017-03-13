@@ -8,6 +8,9 @@
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
 
+# Clean Code
+https://news.ycombinator.com/item?id=13854431
+
 # Algorithm
 https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms
 https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-about-algorithms                                       Algorithm Design" by Kleinberg and Tardos                                                                                              
@@ -120,3 +123,6 @@ http://www-cs-students.stanford.edu/~amitp/gameprog.html
 
 # C++
 https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything
+
+# Python
+https://github.com/pallets/flask
