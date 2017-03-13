@@ -117,6 +117,9 @@ http://htmlreference.io/
 
 # Blogs
 https://bitsofco.de/
+https://dev.to/
+<b>http://highscalability.com/</b>
+https://www.oreilly.com/ideas
 
 # EC2
 https://www.expeditedssl.com/aws-in-plain-english
