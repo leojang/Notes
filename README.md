@@ -115,6 +115,9 @@ https://www.brentozar.com/archive/2013/02/7-things-developers-should-know-about-
 # HTML
 http://htmlreference.io/
 
+# Blogs
+https://bitsofco.de/
+
 # EC2
 https://www.expeditedssl.com/aws-in-plain-english
 
