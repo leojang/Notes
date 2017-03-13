@@ -42,6 +42,7 @@ http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_s
 
 # JavaScript
 https://risingstars2016.js.org/
+http://www.2ality.com/
 
 # Testing
 https://dotblogs.com.tw/hatelove/2016/03/28/compare-object-equality-with-expected-objects
@@ -120,6 +121,18 @@ https://bitsofco.de/
 https://dev.to/
 <b>http://highscalability.com/</b>
 https://www.oreilly.com/ideas
+http://antirez.com/latest/0
+https://rachelbythebay.com/
+https://www.troyhunt.com/
+https://blog.codinghorror.com/
+http://a16z.com/
+https://stratechery.com/
+https://hackernoon.com/
+http://hanselminutes.com/
+https://scaleyourcode.com/
+http://dddweekly.com/
+https://blog.acolyer.org/
+
 
 # EC2
 https://www.expeditedssl.com/aws-in-plain-english
