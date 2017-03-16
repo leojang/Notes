@@ -44,6 +44,9 @@ http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_s
 https://risingstars2016.js.org/
 http://www.2ality.com/
 
+# WebAssembly
+https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/
+
 # Testing
 https://dotblogs.com.tw/hatelove/2016/03/28/compare-object-equality-with-expected-objects
 
@@ -119,6 +122,9 @@ https://www.brentozar.com/archive/2013/02/7-things-developers-should-know-about-
 # HTML
 http://htmlreference.io/
 
+# Ruby
+https://www.nateberkopec.com/blog/2017/03/10/how-i-made-self-publishing-about-ruby-on-rails.html
+
 # Blogs
 https://bitsofco.de/
 https://dev.to/
@@ -136,6 +142,8 @@ https://scaleyourcode.com/
 http://dddweekly.com/
 https://blog.acolyer.org/
 
+# CSS
+https://tallys.github.io/color-theory/
 
 # EC2
 https://www.expeditedssl.com/aws-in-plain-english
