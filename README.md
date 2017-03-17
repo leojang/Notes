@@ -11,6 +11,9 @@ Coursera, Edx, Udemy, CodeSchool, TreeHouse
 # Clean Code
 https://news.ycombinator.com/item?id=13854431
 
+# Git
+https://chris.beams.io/posts/git-commit/
+
 # Algorithm
 https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms
 https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-about-algorithms                                       Algorithm Design" by Kleinberg and Tardos                                                                                              
@@ -22,6 +25,7 @@ https://read01.com/oLKDAQ.html
 
 # Windows 10
 https://www.thurrott.com/windows/windows-10/106424/windows-10-tip-turn-off-file-explorer-advertising
+http://sadacaraveo.com/programs-that-have-saved-me-more-than-100-hours-by-automating-repetitive-tasks
 
 # Design Patterns
 https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
@@ -62,6 +66,7 @@ https://dotblogs.com.tw/atowngit/archive/2010/06/10/15783.aspx
 https://github.com/stanislaw/awesome-safety-critical
 https://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/?2
 https://edu.google.com/cs/index.html
+https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
@@ -89,6 +94,9 @@ ve-payments-60f5d17f6c71
 https://www.theguardian.com/business/2017/mar/07/the-north-face-patagonia-saving-world-one-puffer-jacket-at-a-time
 http://www.bbc.com/news/in-pictures-39040237
 http://www.mattfriz.com/#/outbursts/tech-interview-torture-chamber
+https://www.1843magazine.com/features/escape-to-another-world
+https://www.1843magazine.com/features/why-do-we-work-so-hard
+https://www.1843magazine.com/features/highpressure-parenting
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
