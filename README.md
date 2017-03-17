@@ -144,6 +144,7 @@ https://blog.acolyer.org/
 
 # CSS
 https://tallys.github.io/color-theory/
+http://animista.net/
 
 # EC2
 https://www.expeditedssl.com/aws-in-plain-english
