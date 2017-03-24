@@ -8,6 +8,9 @@
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
 
+# Tools
+https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
+
 # Clean Code
 https://news.ycombinator.com/item?id=13854431
 
@@ -100,6 +103,8 @@ http://www.mattfriz.com/#/outbursts/tech-interview-torture-chamber
 https://www.1843magazine.com/features/escape-to-another-world
 https://www.1843magazine.com/features/why-do-we-work-so-hard
 https://www.1843magazine.com/features/highpressure-parenting
+https://gaps.com/startup-challenge/
+
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
