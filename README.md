@@ -69,6 +69,7 @@ https://github.com/stanislaw/awesome-safety-critical
 https://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/?2
 https://edu.google.com/cs/index.html
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/
+http://thecodist.com/article/yes_i_still_want_to_be_doing_this_at_56
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
@@ -125,6 +126,7 @@ http://users.telenet.be/d.rijmenants/en/enigmatech.htm  
 
 # Go
 https://gowebexamples.github.io/
+http://howistart.org/posts/go/1/
 
 # SQL
 https://www.brentozar.com/archive/2013/02/7-things-developers-should-know-about-sql-server/
