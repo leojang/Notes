@@ -25,6 +25,7 @@ https://www.khanacademy.org/computing/computer-science/algorithms/
 http://www.cs.cornell.edu/courses/cs4820/2014sp/lectures/
 http://www.programcreek.com/
 https://read01.com/oLKDAQ.html
+http://www.techiedelight.com/list-of-problems/
 
 # Windows 10
 https://www.thurrott.com/windows/windows-10/106424/windows-10-tip-turn-off-file-explorer-advertising
@@ -73,6 +74,7 @@ https://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/?2
 https://edu.google.com/cs/index.html
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/
 http://thecodist.com/article/yes_i_still_want_to_be_doing_this_at_56
+https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
