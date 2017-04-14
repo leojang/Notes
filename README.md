@@ -77,6 +77,7 @@ https://edu.google.com/cs/index.html
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/
 http://thecodist.com/article/yes_i_still_want_to_be_doing_this_at_56
 https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview
+http://www.cse.buffalo.edu/~rapaport/howtostudy.html
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
