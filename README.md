@@ -111,7 +111,7 @@ https://www.1843magazine.com/features/why-do-we-work-so-hard
 https://www.1843magazine.com/features/highpressure-parenting
 https://gaps.com/startup-challenge/
 http://brianknapp.me/starting-from-nothing-zero-to-build-wealth/
-
+http://www.savvyclutch.com/measuring-software-engineering-competency/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
