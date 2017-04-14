@@ -182,3 +182,6 @@ https://github.com/pallets/flask
 
 # Wiki
 https://en.wikipedia.org/wiki/User:LucasVB/Gallery
+
+# Physics
+http://nautil.us/blog/the-math-trick-behind-mp3s-jpegs-and-homer-simpsons-face
