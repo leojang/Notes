@@ -83,6 +83,7 @@ https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technica
 http://www.cse.buffalo.edu/~rapaport/howtostudy.html
 https://collegeinfogeek.com/spaced-repetition-memory-technique/
 http://gilvegliach.it/?id=17
+https://80000hours.org/career-guide/how-to-be-successful/
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
