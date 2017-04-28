@@ -7,6 +7,7 @@
  
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
+https://www.coursera.org/learn/learning-how-to-learn
 
 # Tools
 https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
