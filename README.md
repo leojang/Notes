@@ -102,6 +102,8 @@ http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
 http://www.economist.com/blogs/economist-explains
 
 # Ideas
+https://aeon.co/essays/until-we-treat-rapists-as-ordinary-criminals-we-wont-stop-them
+https://aeon.co/essays/with-the-use-of-heuristics-anybody-can-think-like-a-philosopher
 https://www.nytimes.com/2016/07/19/upshot/repeat-after-me-cold-does-not-increase-odds-of-catching-cold.html?_r=0
 https://aeon.co/                                                                                                                        
 http://www.nytimes.com/2017/01/07/opinion/sunday/yes-its-your-parents-fault.html?_r=0                                                   
