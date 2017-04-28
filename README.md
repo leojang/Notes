@@ -5,6 +5,8 @@
  
  設計時 盡量讓需要互動的物件之間關係鬆綁
  
+ I am because we are, and since we are, therefore I am. John Mbiti 
+ 
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
 https://www.coursera.org/learn/learning-how-to-learn
