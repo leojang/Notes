@@ -82,6 +82,7 @@ http://thecodist.com/article/yes_i_still_want_to_be_doing_this_at_56
 https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview
 http://www.cse.buffalo.edu/~rapaport/howtostudy.html
 https://collegeinfogeek.com/spaced-repetition-memory-technique/
+http://gilvegliach.it/?id=17
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
