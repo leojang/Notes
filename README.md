@@ -17,6 +17,7 @@ http://tinyhabits.com/join/
 
 # Tools
 https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
+http://www.artofmanliness.com/2014/08/05/undo-the-damage-of-sitting/
 
 # Clean Code
 https://news.ycombinator.com/item?id=13854431
