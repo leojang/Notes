@@ -62,6 +62,7 @@ http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_s
 https://risingstars2016.js.org/
 http://www.2ality.com/
 https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.2tpky4xfc
+https://prepack.io/
 
 # WebAssembly
 https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/
