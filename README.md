@@ -18,6 +18,7 @@ http://tinyhabits.com/join/
 # Tools
 https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
 http://www.artofmanliness.com/2014/08/05/undo-the-damage-of-sitting/
+http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
 
 # Clean Code
 https://news.ycombinator.com/item?id=13854431
@@ -75,6 +76,8 @@ https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/
 https://dotblogs.com.tw/hatelove/2016/03/28/compare-object-equality-with-expected-objects
 
 # Self Learning
+https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/
+http://web.stonehill.edu/compsci/History_Math/math-read.htm
 https://news.ycombinator.com/item?id=13816627
 http://blog.miniasp.com/post/2016/02/02/JavaScript-novice-advice-and-learning-resources.aspx
 https://www.quora.com/What-are-some-websites-similar-to-Coursera                                                                        
@@ -107,6 +110,9 @@ http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
 http://www.economist.com/blogs/economist-explains
 
 # Ideas
+http://www.nybooks.com/daily/2015/06/26/reading-is-forgetting/
+https://qz.com/970924/the-psychological-importance-of-wasting-time/
+http://www.newyorker.com/tech/elements/walking-helps-us-think
 https://aeon.co/essays/until-we-treat-rapists-as-ordinary-criminals-we-wont-stop-them
 https://aeon.co/essays/with-the-use-of-heuristics-anybody-can-think-like-a-philosopher
 https://www.nytimes.com/2016/07/19/upshot/repeat-after-me-cold-does-not-increase-odds-of-catching-cold.html?_r=0
