@@ -9,6 +9,7 @@
 
 # Interview
 http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/
+http://observer.com/2017/05/apple-facebook-google-amazon-secrets-dream-job/
 
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
@@ -22,6 +23,7 @@ http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
 
 # Clean Code
 https://news.ycombinator.com/item?id=13854431
+http://natureofcode.com/book/introduction/
 
 # Git
 https://chris.beams.io/posts/git-commit/
