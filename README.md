@@ -25,6 +25,7 @@ https://news.ycombinator.com/item?id=13854431
 
 # Git
 https://chris.beams.io/posts/git-commit/
+https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/
 
 # Algorithm
 https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms
