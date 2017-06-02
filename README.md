@@ -105,6 +105,7 @@ https://collegeinfogeek.com/spaced-repetition-memory-technique/
 http://gilvegliach.it/?id=17
 https://80000hours.org/career-guide/how-to-be-successful/
 https://www.wired.com/2012/01/everything-about-learning/
+https://buildmyvocab.in/
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
