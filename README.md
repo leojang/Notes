@@ -74,6 +74,8 @@ https://prepack.io/
 Secrets of the JavaScript Ninja by John Resig 
 https://github.com/MostlyAdequate/mostly-adequate-guide
 http://exploringjs.com/
+https://github.com/airbnb/javascript
+
 
 # WebAssembly
 https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/
