@@ -72,6 +72,7 @@ http://www.2ality.com/
 https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.2tpky4xfc
 https://prepack.io/
 Secrets of the JavaScript Ninja by John Resig 
+https://github.com/MostlyAdequate/mostly-adequate-guide
 
 # WebAssembly
 https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/
