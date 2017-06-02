@@ -106,6 +106,8 @@ http://gilvegliach.it/?id=17
 https://80000hours.org/career-guide/how-to-be-successful/
 https://www.wired.com/2012/01/everything-about-learning/
 https://buildmyvocab.in/
+http://nautil.us/issue/48/chaos/are-you-a-self_interrupter
+http://nautil.us/issue/41/Selection/feel-different-breaking-your-cell-phones-hold
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
