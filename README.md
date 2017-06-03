@@ -78,6 +78,8 @@ https://github.com/MostlyAdequate/mostly-adequate-guide
 http://exploringjs.com/
 https://github.com/airbnb/javascript
 http://adripofjavascript.com/
+http://adripofjavascript.com/blog/drips/invoking-javascript-functions-with-call-and-apply.html
+
 
 # WebAssembly
 https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/
