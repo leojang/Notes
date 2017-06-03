@@ -1,4 +1,6 @@
 # Quotes
+"Learn something new everyday." - Dad 
+
  "Simplicity is a prerequisite for reliability". - Edsger W. Dijkstra
  
  寫程式是針對介面而寫 - 變數的宣告型態 應該是超型態 通常是一個抽象類別或介面 如此 只要是實踐此超型態的類別所產生的物件 都可以指定給這個變數 這也意味著 宣告類別時 不用理會以後執行時的真正物件型態
