@@ -150,6 +150,7 @@ http://nautil.us/blog/the-math-trick-behind-mp3s-jpegs-and-homer-simpsons-face
 https://www.nytimes.com/2016/01/31/opinion/sunday/how-to-raise-a-creative-child-step-one-back-off.html?_r=0
 http://npmaps.com/
 https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
+https://blog.codinghorror.com/hacker-hack-thyself/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
