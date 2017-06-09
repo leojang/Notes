@@ -160,6 +160,7 @@ https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba
 https://blog.codinghorror.com/hacker-hack-thyself/
 http://nautil.us/issue/39/sport/the-strange-brain-of-the-worlds-greatest-solo-climber
 http://www.npr.org/sections/thetwo-way/2017/06/05/531584651/alex-honnold-scales-el-capitan-without-ropes-and-the-climbing-world-reels?utm_campaign=storyshare&utm_source=twitter.com&utm_medium=social
+https://news.ycombinator.com/item?id=14486657
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
