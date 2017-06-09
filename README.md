@@ -155,6 +155,8 @@ https://www.nytimes.com/2016/01/31/opinion/sunday/how-to-raise-a-creative-child-
 http://npmaps.com/
 https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 https://blog.codinghorror.com/hacker-hack-thyself/
+http://nautil.us/issue/39/sport/the-strange-brain-of-the-worlds-greatest-solo-climber
+http://www.npr.org/sections/thetwo-way/2017/06/05/531584651/alex-honnold-scales-el-capitan-without-ropes-and-the-climbing-world-reels?utm_campaign=storyshare&utm_source=twitter.com&utm_medium=social
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
