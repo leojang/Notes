@@ -18,6 +18,7 @@ Coursera, Edx, Udemy, CodeSchool, TreeHouse
 https://www.coursera.org/learn/learning-how-to-learn
 http://tinyhabits.com/join/
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://github.com/karan/Projects
 
 # Tools
 https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
