@@ -17,6 +17,7 @@ http://observer.com/2017/05/apple-facebook-google-amazon-secrets-dream-job/
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
 https://www.coursera.org/learn/learning-how-to-learn
 http://tinyhabits.com/join/
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 # Tools
 https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
