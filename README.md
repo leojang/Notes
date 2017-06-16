@@ -8,6 +8,8 @@
  設計時 盡量讓需要互動的物件之間關係鬆綁
  
  I am because we are, and since we are, therefore I am. John Mbiti 
+ 
+ http://www.lettersofnote.com/2016/07/your-type-is-dime-dozen.html
 
 # Interview
 http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/
