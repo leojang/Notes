@@ -163,6 +163,7 @@ http://nautil.us/issue/39/sport/the-strange-brain-of-the-worlds-greatest-solo-cl
 http://www.npr.org/sections/thetwo-way/2017/06/05/531584651/alex-honnold-scales-el-capitan-without-ropes-and-the-climbing-world-reels?utm_campaign=storyshare&utm_source=twitter.com&utm_medium=social
 https://news.ycombinator.com/item?id=14486657
 http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+http://www.lettersofnote.com/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
