@@ -171,6 +171,7 @@ https://news.ycombinator.com/item?id=14486657
 http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
 http://www.lettersofnote.com/
 http://www.summaread.com/
+http://lithub.com/on-a-wonderful-beautiful-almost-failed-sentence-by-virginia-woolf/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
