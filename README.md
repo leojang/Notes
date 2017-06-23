@@ -74,6 +74,7 @@ http://www.forbes.com/sites/siemenshealthineers/2017/02/10/new-healthcare-model-
 https://generalabstractnonsense.com/2017/03/A-quick-look-at-Support-Vector-Machines/
 http://rodneybrooks.com/patrick-winston-explains-deep-learning/
 http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
+https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
 
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
@@ -122,6 +123,7 @@ https://www.wired.com/2012/01/everything-about-learning/
 https://buildmyvocab.in/
 http://nautil.us/issue/48/chaos/are-you-a-self_interrupter
 http://nautil.us/issue/41/Selection/feel-different-breaking-your-cell-phones-hold
+http://setosa.io/#/
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
