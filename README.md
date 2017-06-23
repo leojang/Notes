@@ -11,6 +11,9 @@
  
  http://www.lettersofnote.com/2016/07/your-type-is-dime-dozen.html
 
+# Front End
+https://github.com/grab/front-end-guide
+
 # Interview
 http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/
 http://observer.com/2017/05/apple-facebook-google-amazon-secrets-dream-job/
