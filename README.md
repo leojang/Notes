@@ -80,6 +80,7 @@ https://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-
 https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/
 https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/
 http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf
+https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
 
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
