@@ -180,6 +180,7 @@ https://www.washingtonpost.com/national/health-science/even-moderate-drinking-ca
 https://github.com/stared/science-based-games-list
 https://github.com/warner/magic-wormhole
 https://news.ycombinator.com/item?id=14652936
+https://www.nytimes.com/2017/06/29/world/asia/hong-kong-china-handover.html
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
