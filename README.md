@@ -75,6 +75,11 @@ https://generalabstractnonsense.com/2017/03/A-quick-look-at-Support-Vector-Machi
 http://rodneybrooks.com/patrick-winston-explains-deep-learning/
 http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
 https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
+https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/
+https://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/
+https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/
+https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/
+http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf
 
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
