@@ -124,6 +124,7 @@ https://buildmyvocab.in/
 http://nautil.us/issue/48/chaos/are-you-a-self_interrupter
 http://nautil.us/issue/41/Selection/feel-different-breaking-your-cell-phones-hold
 http://setosa.io/#/
+http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/
 
 # Microsoft Docs
 https://docs.microsoft.com/en-us/aspnet/entity-framework
