@@ -210,6 +210,8 @@ http://howistart.org/posts/go/1/
 
 https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back
 
+# Math
+https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/
 
 # SQL
 https://www.brentozar.com/archive/2013/02/7-things-developers-should-know-about-sql-server/
