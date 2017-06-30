@@ -174,6 +174,7 @@ http://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-u
 http://www.lettersofnote.com/
 http://www.summaread.com/
 http://lithub.com/on-a-wonderful-beautiful-almost-failed-sentence-by-virginia-woolf/
+https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
@@ -255,3 +256,6 @@ https://en.wikipedia.org/wiki/User:LucasVB/Gallery
 
 # Physics
 http://nautil.us/blog/the-math-trick-behind-mp3s-jpegs-and-homer-simpsons-face
+
+# Website
+https://letsencrypt.org/getting-started/
