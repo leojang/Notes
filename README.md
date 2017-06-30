@@ -81,6 +81,9 @@ https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/
 https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/
 http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf
 https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
+http://www.cs.ucf.edu/courses/cap6412/fall2009/papers/Berwick2003.pdf
+https://www.analyticsvidhya.com/blog/2015/09/ultimate-data-scientists-world-today/
+https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/newbie-d3-js-expert-complete-path-create-interactive-visualization-d3-js/
 
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
