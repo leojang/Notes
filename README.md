@@ -177,6 +177,9 @@ http://www.summaread.com/
 http://lithub.com/on-a-wonderful-beautiful-almost-failed-sentence-by-virginia-woolf/
 https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/
 https://www.washingtonpost.com/national/health-science/even-moderate-drinking-causes-atrophy-in-brain-area-related-to-memory-learning/2017/06/23/7e07debc-576c-11e7-ba90-f5875b7d1876_story.html?utm_term=.abb6aef79cb9
+https://github.com/stared/science-based-games-list
+https://github.com/warner/magic-wormhole
+https://news.ycombinator.com/item?id=14652936
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
