@@ -54,6 +54,7 @@ https://github.com/jwasham/coding-interview-university
 https://github.com/sherxon/AlgoDS/blob/master/README.md
 https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions?share=1
 https://visualgo.net/en
+http://blog.robertelder.org/diff-algorithm/
 
 # Windows 10
 https://www.thurrott.com/windows/windows-10/106424/windows-10-tip-turn-off-file-explorer-advertising
@@ -85,6 +86,7 @@ https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
 http://www.cs.ucf.edu/courses/cap6412/fall2009/papers/Berwick2003.pdf
 https://www.analyticsvidhya.com/blog/2015/09/ultimate-data-scientists-world-today/
 https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/newbie-d3-js-expert-complete-path-create-interactive-visualization-d3-js/
+https://github.com/wearehive/project-guidelines
 
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
