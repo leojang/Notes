@@ -58,6 +58,7 @@ https://github.com/sherxon/AlgoDS/blob/master/README.md
 https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions?share=1
 https://visualgo.net/en
 http://blog.robertelder.org/diff-algorithm/
+https://www.forbes.com/sites/quora/2013/07/03/how-do-i-strengthen-my-knowledge-of-data-structures-and-algorithms/#5700d5ce4816
 
 # Windows 10
 https://www.thurrott.com/windows/windows-10/106424/windows-10-tip-turn-off-file-explorer-advertising
