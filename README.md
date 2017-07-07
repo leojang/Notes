@@ -71,6 +71,7 @@ https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.m
 https://www.cs.cmu.edu/~adamchik/15-121/lectures/
 http://www.solipsys.co.uk/new/ThinkingAboutRecursion.html?HN_20170308
 https://www.quora.com/Which-is-the-best-online-course-to-learn-data-structures
+https://www.quora.com/How-can-I-learn-data-structures-effectively
 
 # Machine Learning
 https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-outside-academia
