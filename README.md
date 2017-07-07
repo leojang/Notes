@@ -10,6 +10,7 @@
  I am because we are, and since we are, therefore I am. John Mbiti 
  
  http://www.lettersofnote.com/2016/07/your-type-is-dime-dozen.html
+ http://users.ece.utexas.edu/~adnan/pike.html
 
 # Front End
 https://github.com/grab/front-end-guide
