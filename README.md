@@ -22,6 +22,7 @@ https://github.com/grab/front-end-guide
 http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/
 http://observer.com/2017/05/apple-facebook-google-amazon-secrets-dream-job/
 http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found/
+https://www.hackerrank.com/dashboard
 
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
