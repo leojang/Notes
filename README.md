@@ -11,6 +11,9 @@
  
  http://www.lettersofnote.com/2016/07/your-type-is-dime-dozen.html
  http://users.ece.utexas.edu/~adnan/pike.html
+ 
+# Architecture
+https://fullstackmark.com/post/11/better-software-design-with-clean-architecture
 
 # Front End
 https://github.com/grab/front-end-guide
