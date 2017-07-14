@@ -228,6 +228,7 @@ http://users.telenet.be/d.rijmenants/en/enigmatech.htm  
 # Go
 https://gowebexamples.github.io/
 http://howistart.org/posts/go/1/
+https://blog.golang.org/toward-go2
 
 https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back
 
