@@ -18,6 +18,9 @@ https://fullstackmark.com/post/11/better-software-design-with-clean-architecture
 # Front End
 https://github.com/grab/front-end-guide
 
+# Math
+http://www.nwaonline.com/news/2017/jul/03/slaying-the-math-monster-20170703/
+
 # Interview
 http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/
 http://observer.com/2017/05/apple-facebook-google-amazon-secrets-dream-job/
