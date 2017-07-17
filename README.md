@@ -22,6 +22,7 @@ https://github.com/grab/front-end-guide
 http://www.nwaonline.com/news/2017/jul/03/slaying-the-math-monster-20170703/
 https://www.quantamagazine.org/pentagon-tiling-proof-solves-century-old-math-problem-20170711/
 https://news.ycombinator.com/item?id=14755023
+https://newhumanist.org.uk/articles/5208/what-makes-maths-beautiful
 
 # Interview
 http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/
