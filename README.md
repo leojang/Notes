@@ -54,6 +54,7 @@ http://natureofcode.com/book/introduction/
 https://chris.beams.io/posts/git-commit/
 https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/
 http://jmcglone.com/guides/github-pages/
+http://blog.teamtreehouse.com/using-github-pages-to-host-your-website
 
 # Algorithm
 https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms
