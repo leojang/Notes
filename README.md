@@ -104,6 +104,7 @@ https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-b
 https://github.com/wearehive/project-guidelines
 https://spandan-madan.github.io/DeepLearningProject/
 http://karpathy.github.io/neuralnets/
+https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/
 
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
