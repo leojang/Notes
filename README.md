@@ -17,6 +17,8 @@ https://fullstackmark.com/post/11/better-software-design-with-clean-architecture
 
 # Front End
 https://github.com/grab/front-end-guide
+https://blog.poki.com/front-end-walkthrough-building-a-single-page-application-f 
+rom-scratch-d47c35fdc830
 
 # Math
 http://www.nwaonline.com/news/2017/jul/03/slaying-the-math-monster-20170703/
