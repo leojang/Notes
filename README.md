@@ -226,6 +226,7 @@ http://nautil.us/issue/49/the-absurd/what-is-space
 https://www.google.com/culturalinstitute/beta/exhibit/ogKCPmGdPtB7Iw
 http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/
 https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-li fe-and-learning-from-a-genius-e8b9297bee8f
+https://opinionator.blogs.nytimes.com/2013/04/10/the-power-of-talking-to-your-baby/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
