@@ -20,6 +20,11 @@ https://github.com/grab/front-end-guide
 https://blog.poki.com/front-end-walkthrough-building-a-single-page-application-f 
 rom-scratch-d47c35fdc830
 
+# Agile
+https://www.visualstudio.com/learn/what-is-agile/
+https://www.visualstudio.com/agile/
+https://www.visualstudio.com/en-us/docs/connect/work-team-explorer
+
 # Math
 http://www.nwaonline.com/news/2017/jul/03/slaying-the-math-monster-20170703/
 https://www.quantamagazine.org/pentagon-tiling-proof-solves-century-old-math-problem-20170711/
