@@ -236,6 +236,7 @@ https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-li
 https://opinionator.blogs.nytimes.com/2013/04/10/the-power-of-talking-to-your-baby/
 https://theoutline.com/post/1934/these-people-are-suing-trump-for-blocking-them-on-twitter
 https://theroamingmind.com/2017/03/06/social-media-is-the-new-smoking/
+https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
