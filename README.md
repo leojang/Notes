@@ -315,6 +315,7 @@ https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-r
 
 # Python
 https://github.com/pallets/flask
+https://teachcraft.net/
 
 # Wiki
 https://en.wikipedia.org/wiki/User:LucasVB/Gallery
