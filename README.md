@@ -242,6 +242,7 @@ https://theoutline.com/post/1934/these-people-are-suing-trump-for-blocking-them-
 https://theroamingmind.com/2017/03/06/social-media-is-the-new-smoking/
 https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/
 https://aeon.co/essays/how-work-changed-to-make-us-all-passionate-quitters
+http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
