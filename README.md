@@ -2,6 +2,7 @@
 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
 https://docs.microsoft.com/en-us/aspnet/mvc/mvc5
 https://docs.microsoft.com/en-us/aspnet/identity/overview/index
+https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/aspnet-identity-recommended-resources
 
 # Quotes
 "Learn something new everyday." - Dad 
