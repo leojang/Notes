@@ -3,6 +3,18 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introductio
 https://docs.microsoft.com/en-us/aspnet/mvc/mvc5
 https://docs.microsoft.com/en-us/aspnet/identity/overview/index
 https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/aspnet-identity-recommended-resources
+https://stackoverflow.com/questions/21645323/what-is-the-claims-in-asp-net-identity
+https://www.spiria.com/en/blog/web-applications/claims-based-identity-aspnet
+https://stormpath.com/blog/tutorial-policy-based-authorization-asp-net-core
+https://coding.abel.nu/2014/06/asp-net-identity-and-owin-overview/
+https://code.msdn.microsoft.com/vstudio/ASPNET-MVC-5-Security-And-44cbdb97/view/Discussions#content
+http://www.codeguru.com/csharp/.net/net_asp/mvc/securing-asp.net-mvc-applications-with-asp.net-identity.htm
+http://www.blinkingcaret.com/2016/11/30/asp-net-identity-core-from-scratch/#disqus_thread
+https://github.com/aspnet
+
+# Identity
+https://adrientorris.github.io/aspnet-core/identity/extend-user-model.html
+https://www.scottbrady91.com/ASPNET-Identity/Identity-Manager-using-ASPNET-Identity
 
 # Quotes
 "Learn something new everyday." - Dad 
