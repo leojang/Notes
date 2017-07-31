@@ -17,6 +17,8 @@ https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introductio
  
 # Architecture
 https://fullstackmark.com/post/11/better-software-design-with-clean-architecture
+https://medium.com/m/global-identity?redirectUrl=https://mystudentvoices.com/a-l 
+ook-into-nasas-coding-philosophy-b747957c7f8a
 
 # Front End
 https://github.com/grab/front-end-guide
