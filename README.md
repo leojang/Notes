@@ -264,6 +264,7 @@ https://theroamingmind.com/2017/03/06/social-media-is-the-new-smoking/
 https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/
 https://aeon.co/essays/how-work-changed-to-make-us-all-passionate-quitters
 http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/
+http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-esteem-and-salary-negotiations/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
