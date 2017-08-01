@@ -357,3 +357,6 @@ http://nautil.us/blog/the-math-trick-behind-mp3s-jpegs-and-homer-simpsons-face
 
 # Website
 https://letsencrypt.org/getting-started/
+
+# Emac
+https://cestlaz.github.io/stories/emacs/
