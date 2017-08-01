@@ -30,6 +30,9 @@ https://www.scottbrady91.com/ASPNET-Identity/Identity-Manager-using-ASPNET-Ident
  http://www.lettersofnote.com/2016/07/your-type-is-dime-dozen.html
  http://users.ece.utexas.edu/~adnan/pike.html
  
+# Elixir
+https://elixirschool.com/en/
+ 
 # Unit Test
 https://msdn.microsoft.com/en-us/library/ms182532.aspx
  
