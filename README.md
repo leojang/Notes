@@ -166,6 +166,7 @@ https://github.com/airbnb/javascript
 http://adripofjavascript.com/
 http://adripofjavascript.com/blog/drips/invoking-javascript-functions-with-call-and-apply.html
 https://github.com/bpesquet/thejsway/#
+https://news.ycombinator.com/item?id=14891287
 
 # WebAssembly
 https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/
