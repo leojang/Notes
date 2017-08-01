@@ -12,6 +12,11 @@ http://www.codeguru.com/csharp/.net/net_asp/mvc/securing-asp.net-mvc-application
 http://www.blinkingcaret.com/2016/11/30/asp-net-identity-core-from-scratch/#disqus_thread
 https://github.com/aspnet
 
+# Cloud IDE
+Cloud9 Codenvy
+
+# Zapier
+
 # Identity
 https://adrientorris.github.io/aspnet-core/identity/extend-user-model.html
 https://www.scottbrady91.com/ASPNET-Identity/Identity-Manager-using-ASPNET-Identity
