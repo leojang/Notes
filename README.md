@@ -11,6 +11,8 @@ https://code.msdn.microsoft.com/vstudio/ASPNET-MVC-5-Security-And-44cbdb97/view/
 http://www.codeguru.com/csharp/.net/net_asp/mvc/securing-asp.net-mvc-applications-with-asp.net-identity.htm
 http://www.blinkingcaret.com/2016/11/30/asp-net-identity-core-from-scratch/#disqus_thread
 https://github.com/aspnet
+https://aspnetidentity.codeplex.com/SourceControl/latest#Readme.markdown
+https://www.codeproject.com/Articles/762428/ASP-NET-MVC-and-Identity-Understanding-the-Basics
 
 # Cloud IDE
 Cloud9 Codenvy
