@@ -345,6 +345,7 @@ https://javascriptkicks.com/articles/147418/ramp-receipts-learning-node-js-and-r
 # CSS
 https://tallys.github.io/color-theory/
 http://animista.net/
+https://shoelace.style/
 
 # EC2
 https://www.expeditedssl.com/aws-in-plain-english
