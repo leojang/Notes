@@ -13,6 +13,7 @@ http://www.blinkingcaret.com/2016/11/30/asp-net-identity-core-from-scratch/#disq
 https://github.com/aspnet
 https://aspnetidentity.codeplex.com/SourceControl/latest#Readme.markdown
 https://www.codeproject.com/Articles/762428/ASP-NET-MVC-and-Identity-Understanding-the-Basics
+http://www.cnblogs.com/jesse2013/p/membership-part3.html#asp.net-identity
 
 # Cloud IDE
 Cloud9 Codenvy
