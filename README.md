@@ -280,6 +280,7 @@ https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-moder
 https://aeon.co/essays/how-work-changed-to-make-us-all-passionate-quitters
 http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-story/
 http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-esteem-and-salary-negotiations/
+https://scratch.mit.edu/
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
