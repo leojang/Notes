@@ -1,4 +1,5 @@
 # Current Reading
+http://www.learnentityframeworkcore.com/configuration/fluent-api/withmany-method
 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
 https://docs.microsoft.com/en-us/aspnet/mvc/mvc5
 https://docs.microsoft.com/en-us/aspnet/identity/overview/index
