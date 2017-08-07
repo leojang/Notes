@@ -132,6 +132,7 @@ http://sadacaraveo.com/programs-that-have-saved-me-more-than-100-hours-by-automa
 
 # Design Patterns
 https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md
+http://www.ccs.neu.edu/home/matthias/HtDP2e/
 
 # Data Structure
 https://www.cs.cmu.edu/~adamchik/15-121/lectures/
