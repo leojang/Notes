@@ -1,4 +1,5 @@
 # Current Reading
+http://www.masterhsiao.com.tw/Smart/SC158/SC158Page.php
 http://www.learnentityframeworkcore.com/configuration/fluent-api/withmany-method
 https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
 https://docs.microsoft.com/en-us/aspnet/mvc/mvc5
