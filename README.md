@@ -291,6 +291,7 @@ http://livefreeordichotomize.com/2016/12/15/hill-for-the-data-scientist-an-xkcd-
 http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-esteem-and-salary-negotiations/
 https://scratch.mit.edu/
 https://archive.org/details/georgeblood
+http://unwttng.com/compression-decompressed
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
