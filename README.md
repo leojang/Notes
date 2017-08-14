@@ -26,6 +26,9 @@ https://www.deekit.com/how-do-i-find-a-remote-job-part-1/
 # Cloud IDE
 Cloud9 Codenvy
 
+# Regex
+https://github.com/zeeshanu/learn-regex
+
 # Compiler
 https://nicoleorchard.com/blog/compilers
 
