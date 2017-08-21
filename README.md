@@ -39,6 +39,9 @@ https://code.tutsplus.com/tutorials/ssh-what-and-how--net-25138
 
 # Zapier
 
+# Parenting
+https://www.quantamagazine.org/math-and-science-teachers-pencils-down-20161011/
+
 # Golang
 https://michael.stapelberg.de/Artikel/golang_favorite
 
