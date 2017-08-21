@@ -19,6 +19,10 @@ http://www.cnblogs.com/jesse2013/p/membership-part3.html#asp.net-identity
 
 https://laverna.cc/#download
 
+# Investment
+https://www.mathsisfun.com/money/
+https://www.mathsisfun.com/money/internal-rate-return.html
+
 # Entity Framework
 https://cpratt.co/repository-and-unit-of-work-patterns-with-entity-framework/
 
