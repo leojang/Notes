@@ -177,6 +177,7 @@ https://machinelearning.apple.com/2017/07/07/GAN.html
 http://www.fast.ai/2017/07/17/num-lin-alg/
 http://ruder.io/deep-learning-nlp-best-practices/
 https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-beginner-friendly-approach-using-tensorflow-94b0a090ccd4
+https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
 
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
