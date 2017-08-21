@@ -39,6 +39,9 @@ https://code.tutsplus.com/tutorials/ssh-what-and-how--net-25138
 
 # Zapier
 
+# Golang
+https://michael.stapelberg.de/Artikel/golang_favorite
+
 # Identity
 https://adrientorris.github.io/aspnet-core/identity/extend-user-model.html
 https://www.scottbrady91.com/ASPNET-Identity/Identity-Manager-using-ASPNET-Identity
