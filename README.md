@@ -302,6 +302,7 @@ http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-estee
 https://scratch.mit.edu/
 https://archive.org/details/georgeblood
 http://unwttng.com/compression-decompressed
+https://www.wired.com/story/our-minds-have-been-hijacked-by-our-phones-tristan-harris-wants-to-rescue-them/?src=longreads
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
