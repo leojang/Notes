@@ -315,6 +315,7 @@ https://archive.org/details/georgeblood
 http://unwttng.com/compression-decompressed
 https://www.wired.com/story/our-minds-have-been-hijacked-by-our-phones-tristan-harris-wants-to-rescue-them/?src=longreads
 https://tosdr.org/
+https://www.thecut.com/2017/08/ellen-pao-silicon-valley-sexism-reset-excerpt.html
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
