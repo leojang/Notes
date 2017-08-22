@@ -16,7 +16,7 @@ https://github.com/aspnet
 https://aspnetidentity.codeplex.com/SourceControl/latest#Readme.markdown
 https://www.codeproject.com/Articles/762428/ASP-NET-MVC-and-Identity-Understanding-the-Basics
 http://www.cnblogs.com/jesse2013/p/membership-part3.html#asp.net-identity
-
+https://www.codeproject.com/Articles/798001/ASP-NET-Identity-Extending-Identity-Models-and-Usi
 https://laverna.cc/#download
 
 # Investment
