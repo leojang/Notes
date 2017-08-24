@@ -18,6 +18,7 @@ https://www.codeproject.com/Articles/762428/ASP-NET-MVC-and-Identity-Understandi
 http://www.cnblogs.com/jesse2013/p/membership-part3.html#asp.net-identity
 https://www.codeproject.com/Articles/798001/ASP-NET-Identity-Extending-Identity-Models-and-Usi
 https://laverna.cc/#download
+https://www.microsoft.com/en-us/download/details.aspx?id=4451
 
 # Investment
 https://www.mathsisfun.com/money/
