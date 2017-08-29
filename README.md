@@ -323,6 +323,7 @@ https://www.washingtonpost.com/news/parenting/wp/2017/08/24/melinda-gates-i-spen
 https://dev.to/peteranglea/6-months-of-working-remotely-taught-me-a-thing-orten
 http://www.bbc.com/earth/story/20170818-five-amazing-things-that-happen-in-the-ocean-at-night
 https://fivethirtyeight.com/features/if-waffle-house-is-closed-its-time-to-panic/
+https://phys.org/news/2007-10-snowdrift-game-tops-prisoner-dilemma.html
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
