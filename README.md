@@ -321,6 +321,7 @@ https://www.thecut.com/2017/08/ellen-pao-silicon-valley-sexism-reset-excerpt.htm
 https://www.wired.com/2017/08/kids-and-porn
 https://www.washingtonpost.com/news/parenting/wp/2017/08/24/melinda-gates-i-spent-my-career-in-technology-i-wasnt-prepared-for-its-effect-on-my-kids/?utm_term=.30221ad51716
 https://dev.to/peteranglea/6-months-of-working-remotely-taught-me-a-thing-orten
+http://www.bbc.com/earth/story/20170818-five-amazing-things-that-happen-in-the-ocean-at-night
 
 # Trans Fat
 https://www.theatlantic.com/health/archive/2013/11/when-trans-fats-were-healthy/281274/
