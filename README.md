@@ -24,6 +24,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=4451
 https://www.mathsisfun.com/money/
 https://www.mathsisfun.com/money/internal-rate-return.html
 http://supershingetter.pixnet.net/blog/post/10462094-%E6%96%B0%E6%89%8B%E7%A9%BA%E8%BB%8D%E5%BF%85%E7%9C%8B%E2%80%A6%E5%88%A5%E4%BA%82%E7%A9%BA
+https://histock.tw/blog/histock1688/63
 
 # Entity Framework
 https://cpratt.co/repository-and-unit-of-work-patterns-with-entity-framework/
