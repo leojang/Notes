@@ -261,6 +261,7 @@ http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
 http://www.economist.com/blogs/economist-explains
 
 # Ideas
+https://www.theuncomfortable.com/
 http://www.nybooks.com/daily/2015/06/26/reading-is-forgetting/
 https://qz.com/970924/the-psychological-importance-of-wasting-time/
 http://www.newyorker.com/tech/elements/walking-helps-us-think
