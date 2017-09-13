@@ -263,6 +263,7 @@ http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
 http://www.economist.com/blogs/economist-explains
 
 # Ideas
+http://wgross.net/essays/give-away-your-code-but-never-your-time
 https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=de7f932e3a1d494f9c9d9a67fb0de646
 https://www.theuncomfortable.com/
 http://www.nybooks.com/daily/2015/06/26/reading-is-forgetting/
