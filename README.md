@@ -1,4 +1,5 @@
 # Current Reading
+https://www.thenewslens.com/feature/taipei-story?page=2
 https://www.taishinbank.com.tw/event/201706/cathaypacific/
 http://www.masterhsiao.com.tw/Smart/SC158/SC158Page.php
 http://www.learnentityframeworkcore.com/configuration/fluent-api/withmany-method
