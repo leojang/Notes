@@ -102,6 +102,7 @@ https://www.quantamagazine.org/pentagon-tiling-proof-solves-century-old-math-pro
 https://news.ycombinator.com/item?id=14755023
 https://newhumanist.org.uk/articles/5208/what-makes-maths-beautiful
 http://iquilezles.org/www/index.htm
+https://tomassetti.me/guide-parsing-algorithms-terminology/
 
 # Interview
 http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/
@@ -111,6 +112,7 @@ https://www.hackerrank.com/dashboard
 http://www.gegugu.com/2015/11/24/804.html
 http://www.jiuzhang.com/
 https://github.com/checkcheckzz/system-design-interview
+https://github.com/yangshun/tech-interview-handbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly
 
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
@@ -419,6 +421,7 @@ https://en.wikipedia.org/wiki/User:LucasVB/Gallery
 
 # Physics
 http://nautil.us/blog/the-math-trick-behind-mp3s-jpegs-and-homer-simpsons-face
+https://www.lhup.edu/~dsimanek/chapman.htm
 
 # Website
 https://letsencrypt.org/getting-started/
