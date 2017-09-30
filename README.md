@@ -127,6 +127,7 @@ https://github.com/jhallen/joes-sandbox/tree/master/editor-perf
 http://www.artofmanliness.com/2014/08/05/undo-the-damage-of-sitting/
 http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
 https://developers.google.com/web/updates/2017/04/devtools-release-notes#highlights
+https://micro-editor.github.io/index.html
 
 # Clean Code
 https://news.ycombinator.com/item?id=13854431
