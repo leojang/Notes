@@ -29,6 +29,7 @@ http://supershingetter.pixnet.net/blog/post/10462094-%E6%96%B0%E6%89%8B%E7%A9%BA
 https://histock.tw/blog/histock1688/63
 https://www.newyorker.com/news/john-cassidy/a-new-way-to-learn-economics
 http://greenhornfinancefootnote.blogspot.tw/2016/12/mutual-fund-fees-and-expenses-explained2.html
+http://greenhornfinancefootnote.blogspot.tw/2016/12/mutual-fund-fees-and-expenses-explained2.html
 
 # Entity Framework
 https://cpratt.co/repository-and-unit-of-work-patterns-with-entity-framework/
