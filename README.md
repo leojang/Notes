@@ -54,6 +54,7 @@ https://code.tutsplus.com/tutorials/ssh-what-and-how--net-25138
 
 # Parenting
 https://www.quantamagazine.org/math-and-science-teachers-pencils-down-20161011/
+https://mathoverflow.net/questions/281447/mathematical-games-interesting-to-both-you-and-a-5-year-old-child
 
 # Golang
 https://michael.stapelberg.de/Artikel/golang_favorite
