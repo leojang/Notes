@@ -1,4 +1,5 @@
 # Current Reading
+http://www.spoon-tamago.com/2017/10/04/japanese-vending-machines-at-night-juxtaposed-with-a-wintry-hokkaido-landscape/
 https://www.thenewslens.com/article/79875
 https://www.thenewslens.com/feature/taipei-story?page=2
 https://www.taishinbank.com.tw/event/201706/cathaypacific/
