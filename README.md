@@ -162,6 +162,7 @@ https://visualgo.net/en
 http://blog.robertelder.org/diff-algorithm/
 https://www.forbes.com/sites/quora/2013/07/03/how-do-i-strengthen-my-knowledge-of-data-structures-and-algorithms/#5700d5ce4816
 http://www.csie.ntnu.edu.tw/~u91029/about.html
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf
 
 # Windows 10
 https://www.thurrott.com/windows/windows-10/106424/windows-10-tip-turn-off-file-explorer-advertising
