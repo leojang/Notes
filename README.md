@@ -25,6 +25,9 @@ https://laverna.cc/#download
 https://www.microsoft.com/en-us/download/details.aspx?id=4451
 https://keybase.io/
 
+# Trending
+https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world
+
 # Investment
 https://www.mathsisfun.com/money/
 https://www.mathsisfun.com/money/internal-rate-return.html
