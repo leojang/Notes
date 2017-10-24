@@ -1,4 +1,6 @@
 # Current Reading
+https://github.com/thedaviddias/Front-End-Checklist
+https://www.vox.com/science-and-health/2017/10/18/15995478/chocolate-health-benefits-heart-disease
 https://hackaday.com/2017/10/18/practical-public-key-cryptography/
 http://iamtrask.github.io/2015/07/12/basic-python-network/
 https://www.nytimes.com/2017/10/19/smarter-living/simple-ways-to-be-better-at-remembering.html
