@@ -1,4 +1,13 @@
 # Current Reading
+https://www.nytimes.com/2017/10/19/smarter-living/simple-ways-to-be-better-at-remembering.html
+http://dariusforoux.com/i-quit/
+http://sugarscience.ucsf.edu/the-toxic-truth/#.We8NKsua05g
+https://home-assistant.io/components/
+https://devdocs.io/
+https://github.com/Microsoft/napajs
+https://aeon.co/essays/sugar-is-a-toxic-agent-that-creates-conditions-for-disease?ref=
+https://www.troyhunt.com/the-6-step-happy-path-to-https/
+https://www.nytimes.com/2017/10/21/style/susan-fowler-uber.html
 http://www.spoon-tamago.com/2017/10/04/japanese-vending-machines-at-night-juxtaposed-with-a-wintry-hokkaido-landscape/
 https://www.thenewslens.com/article/79875
 https://www.thenewslens.com/feature/taipei-story?page=2
