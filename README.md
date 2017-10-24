@@ -1,4 +1,6 @@
 # Current Reading
+https://hackaday.com/2017/10/18/practical-public-key-cryptography/
+http://iamtrask.github.io/2015/07/12/basic-python-network/
 https://www.nytimes.com/2017/10/19/smarter-living/simple-ways-to-be-better-at-remembering.html
 http://dariusforoux.com/i-quit/
 http://sugarscience.ucsf.edu/the-toxic-truth/#.We8NKsua05g
