@@ -150,3 +150,28 @@ plusOne( 41 );		// 42 <-- 1 + 41
 
 plusTen( 13 );		// 23 <-- 10 + 13
 ```
+### Modules
+>The most common usage of closure in JavaScript is the module pattern. Modules let you define private implementation details (variables, functions) that are hidden from the outside world, as well as a public API that is accessible from the outside.
+```
+function User(){
+	var username, password;
+
+	function doLogin(user,pw) {
+		username = user;
+		password = pw;
+
+		// do the rest of the login work
+	}
+
+	var publicAPI = {
+		login: doLogin
+	};
+
+	return publicAPI;
+}
+
+// create a `User` module instance
+var fred = User();
+
+fred.login( "fred", "12Battery34!" );
+```
