@@ -42,7 +42,7 @@ function foo() {
 	var a = 1;
 
 	if (a >= 1) {
-		let b = 2; :bulb:
+		let b = 2;
 
 		while (b < 5) {
 			let c = b * 2;
@@ -70,6 +70,7 @@ function foo() {
 			console.log( a + c );
 		}
 	}
+	console.log(b) // 5，可以讀取b的值，不同於
 }
 
 foo();
