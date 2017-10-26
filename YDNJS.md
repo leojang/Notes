@@ -8,7 +8,7 @@
 
 >For example, arrays are by default coerced to strings by simply joining all the values with commas (,) in between. You might think that two arrays with the same contents would be == equal, but they're not:
 
-'''
+```
 var a = [1,2,3];
 var b = [1,2,3];
 var c = "1,2,3";
@@ -16,4 +16,5 @@ var c = "1,2,3";
 a == c;		// true
 b == c;		// true
 a == b;		// false
-'''
+```
+
