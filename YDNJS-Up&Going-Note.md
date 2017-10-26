@@ -89,3 +89,4 @@ function foo() {
 	console.log(b) // 5，可以讀取b的值，不同於C#
 }
 ```
+>目前看起來 Scope 取決於 function 範圍
