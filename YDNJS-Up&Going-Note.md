@@ -35,8 +35,27 @@ a < b;		// false
 a > b;		// false
 a == b;		// false
 ```
-### Let (ES6)
+### Scope
 >Because of using let instead of var, b will belong only to the if statement and thus not to the whole foo() function's scope.
+```
+function foo() {
+	var a = 1;
+
+	if (a >= 1) {
+		let b = 2; :bulb:
+
+		while (b < 5) {
+			let c = b * 2;
+			b++;
+
+			console.log( a + c );
+		}
+	}
+}
+
+foo();
+// 5 7 9
+```
 ```
 function foo() {
 	var a = 1;
