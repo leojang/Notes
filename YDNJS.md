@@ -17,4 +17,4 @@ a == c;		// true
 b == c;		// true
 a == b;		// false
 ```
-
+> :bulb: there are no "strict inequality" operators that would disallow coercion the same way === "strict equality" does.
