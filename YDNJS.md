@@ -5,3 +5,5 @@
 > If you can be certain about the values, and == is safe, use it! If you can't be certain about the values, use ===. It's that simple.
 
 > You should take special note of the == and === comparison rules if you're comparing two non-primitive values, like objects (including function and array). Because those values are actually held by reference, both == and === comparisons will simply check whether the references match, not anything about the underlying values.
+
+>For example, arrays are by default coerced to strings by simply joining all the values with commas (,) in between. You might think that two arrays with the same contents would be == equal, but they're not:
