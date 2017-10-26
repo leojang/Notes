@@ -35,7 +35,7 @@ a < b;		// false
 a > b;		// false
 a == b;		// false
 ```
-### 
+### Let (ES6)
 >Because of using let instead of var, b will belong only to the if statement and thus not to the whole foo() function's scope.
 ```
 function foo() {
