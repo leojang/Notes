@@ -35,4 +35,24 @@ a < b;		// false
 a > b;		// false
 a == b;		// false
 ```
-###Hoisting
+### 
+>Because of using let instead of var, b will belong only to the if statement and thus not to the whole foo() function's scope.
+```
+function foo() {
+	var a = 1;
+
+	if (a >= 1) {
+		let b = 2;
+
+		while (b < 5) {
+			let c = b * 2;
+			b++;
+
+			console.log( a + c );
+		}
+	}
+}
+
+foo();
+// 5 7 9
+```
