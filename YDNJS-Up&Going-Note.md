@@ -90,3 +90,16 @@ function foo() {
 }
 ```
 >目前看起來 Scope 取決於 function 範圍
+### Strict Mode
+>ES5 added a "strict mode" to the language, which tightens the rules for certain behaviors.
+```
+// "use strict" 也可以放在外面
+function foo() {
+	"use strict";	// turn on strict mode
+	a = 1;			// `var` missing, ReferenceError
+}
+
+foo();
+```
+
+
