@@ -26,3 +26,12 @@ var c = "43";
 a < b;		// true
 b < c;		// true
 ```
+>If both values in the < comparison are strings, as it is with b < c, the comparison is made lexicographically (aka alphabetically like a dictionary). But if one or both is not a string, as it is with a < b, then both values are coerced to be numbers, and a typical numeric comparison occurs.
+```
+var a = 42;
+var b = "foo";
+
+a < b;		// false
+a > b;		// false
+a == b;		// false
+```
