@@ -128,3 +128,9 @@ if (foo) {
 
 console.log( bar ); // ReferenceError
 ```
+```
+{
+   console.log( bar ); // ReferenceError! No Hoisting With let
+   let bar = 2;
+}
+```
