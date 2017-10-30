@@ -43,4 +43,5 @@ function doSomething(a) {
 
 doSomething( 2 ); // 15
 ```
-
+### Functions As Scopes
+>The easiest way to distinguish declaration vs. expression is the position of the word "function" in the statement (not just a line, but a distinct statement). If "function" is the very first thing in the statement, then it's a function declaration. Otherwise, it's a function expression.
