@@ -194,3 +194,30 @@ var foo = function bar() {
 };
 ```
 >The variable identifier foo is hoisted and attached to the enclosing scope (global) of this program, so foo() doesn't fail as a ReferenceError. But foo has no value yet (as it would if it had been a true function declaration instead of expression). So, foo() is attempting to invoke the undefined value, which is a TypeError illegal operation.
+#### Function Hoist First
+```
+foo(); // 1
+
+var foo;
+
+function foo() {
+	console.log( 1 );
+}
+
+foo = function() {
+	console.log( 2 );
+};
+```
+>1 is printed instead of 2! This snippet is interpreted by the Engine as:
+```
+function foo() {
+	console.log( 1 );
+}
+
+foo(); // 1
+
+foo = function() {
+	console.log( 2 );
+};
+```
+>best to avoid declaring functions in blocks.
