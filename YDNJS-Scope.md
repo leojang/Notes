@@ -147,3 +147,17 @@ console.log( bar ); // ReferenceError
 >Not only does let in the for-loop header bind the i to the for-loop body, but in fact, it re-binds it to each iteration of the loop, making sure to re-assign it the value from the end of the previous loop iteration.
 >The reason why this per-iteration binding is interesting will become clear in Chapter 5 when we discuss closures.
 Because let declarations attach to arbitrary blocks rather than to the enclosing function's scope (or global), there can be gotchas where existing code has a hidden reliance on function-scoped var declarations, and replacing the var with let may require additional care when refactoring code.
+#### const
+```
+var foo = true;
+
+if (foo) {
+	var a = 2;
+	const b = 3; // block-scoped to the containing `if`
+
+	a = 3; // just fine!
+	b = 4; // error!
+}
+
+console.log( a ); // 3
+console.log( b ); // ReferenceError!
