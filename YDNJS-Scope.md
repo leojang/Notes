@@ -165,3 +165,32 @@ console.log( b ); // ReferenceError!
 ### Hoisting
 >Only the declarations themselves are hoisted, while any assignments or other executable logic are left in place. If hoisting were to re-arrange the executable logic of our code, that could wreak havoc.
 >It's also important to note that hoisting is per-scope
+```
+foo();
+
+function foo() {
+	console.log( a ); // undefined
+
+	var a = 2;
+}
+```
+```
+function foo() {
+	var a;
+
+	console.log( a ); // undefined
+
+	a = 2;
+}
+
+foo();
+```
+>Function declarations are hoisted, as we just saw. But function expressions are not.
+```
+foo(); // not ReferenceError, but TypeError!
+
+var foo = function bar() {
+	// ...
+};
+```
+>The variable identifier foo is hoisted and attached to the enclosing scope (global) of this program, so foo() doesn't fail as a ReferenceError. But foo has no value yet (as it would if it had been a true function declaration instead of expression). So, foo() is attempting to invoke the undefined value, which is a TypeError illegal operation.
