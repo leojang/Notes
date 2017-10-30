@@ -1,4 +1,4 @@
-#Closure
+# Closure
 
 >Closure is when a function is able to remember and access its lexical scope even when that function is executing outside its lexical scope.
 ```
