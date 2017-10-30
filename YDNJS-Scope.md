@@ -59,3 +59,30 @@ setTimeout( function timeoutHandler(){ // <-- Look, I have a name!
 	console.log( "I waited 1 second!" );
 }, 1000 );
 ```
+### Invoking Function Expressions Immediately
+```
+var a = 2;
+
+(function IIFE(){
+
+	var a = 3;
+	console.log( a ); // 3
+
+})();
+
+console.log( a ); // 2
+```
+>We pass in the window object reference, but we name the parameter global, so that we have a clear stylistic delineation for global vs. non-global references. Of course, you can pass in anything from an enclosing scope you want, and you can name the parameter(s) anything that suits you. This is mostly just stylistic choice.
+```
+var a = 2;
+
+(function IIFE( global ){
+
+	var a = 3;
+	console.log( a ); // 3
+	console.log( global.a ); // 2
+
+})( window );
+
+console.log( a ); // 2
+```
