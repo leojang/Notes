@@ -45,3 +45,11 @@ doSomething( 2 ); // 15
 ```
 ### Functions As Scopes
 >The easiest way to distinguish declaration vs. expression is the position of the word "function" in the statement (not just a line, but a distinct statement). If "function" is the very first thing in the statement, then it's a function declaration. Otherwise, it's a function expression.
+
+### Anonymous vs. Named
+```
+setTimeout( function(){
+	console.log("I waited 1 second!");
+}, 1000 );
+```
+>This is called an "anonymous function expression", because function()... has no name identifier on it. Function expressions can be anonymous, but function declarations cannot omit the name -- that would be illegal JS grammar.
