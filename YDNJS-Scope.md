@@ -162,3 +162,6 @@ if (foo) {
 console.log( a ); // 3
 console.log( b ); // ReferenceError!
 ```
+### Hoisting
+>Only the declarations themselves are hoisted, while any assignments or other executable logic are left in place. If hoisting were to re-arrange the executable logic of our code, that could wreak havoc.
+>It's also important to note that hoisting is per-scope
