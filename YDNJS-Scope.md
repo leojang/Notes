@@ -161,3 +161,4 @@ if (foo) {
 
 console.log( a ); // 3
 console.log( b ); // ReferenceError!
+```
