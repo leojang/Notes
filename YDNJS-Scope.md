@@ -86,3 +86,17 @@ var a = 2;
 
 console.log( a ); // 2
 ```
+### Blocks As Scopes
+## try catch
+>It's a very little known fact that JavaScript in ES3 specified the variable declaration in the catch clause of a try/catch to be block-scoped to the catch block.
+For instance:
+```
+try {
+	undefined(); // illegal operation to force an exception!
+}
+catch (err) {
+	console.log( err ); // works!
+}
+
+console.log( err ); // ReferenceError: `err` not found
+```
