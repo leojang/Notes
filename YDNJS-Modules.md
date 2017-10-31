@@ -58,7 +58,9 @@ console.log(
 foo.awesome(); // LET ME INTRODUCE: HIPPO
 ```
 ### Call Apply
+http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
 https://codeplanet.io/javascript-apply-vs-call-vs-bind/
+http://hangar.runway7.net/javascript/difference-call-apply
 ```
 var person1 = {firstName: 'Jon', lastName: 'Kuperman'};
 var person2 = {firstName: 'Kelly', lastName: 'King'};
