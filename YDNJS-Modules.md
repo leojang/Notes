@@ -92,6 +92,27 @@ var MyModules = (function Manager() { 
   	return {   define: define,   get: get  }; 
 })();
 
-MyModules.define( "bar", [], function(){    console.log(this); // Object { name : "John" }      function hello(who) {   console.log(this);    console.log("Let me introduce: " + who + " from " + this.name);  }
-  return {   hello: hello  }; } );  var bar = MyModules.get( "bar" );  bar.hello( "hippo" );  // Let me introduce: hippo from undefined // 因為 #19 行的 { name : "John" } 僅傳至 #34 的方法 // #39 行的 this 還是 Object { hello : function hello(who) }  var obj = [{name:'Hans'}];  bar.hello.apply(obj[0], ['deep']);  // 將 {name:'Hans'} 傳入 #38 的方法 // #39 行的 this 變成 Object { name : "Hans" } // Let me introduce: deep from John
+MyModules.define( "bar", [], function(){
+	console.log(this); 
+	// Object { name : "John" }      
+	
+	function hello(who) {   
+		console.log(this);    
+		console.log("Let me introduce: " + who + " from " + this.name);  
+	}
+	
+  	return {   hello: hello  }; 
+} );  
+
+var bar = MyModules.get( "bar" );  
+bar.hello( "hippo" );  
+// Let me introduce: hippo from undefined 
+// 因為 #19 行的 { name : "John" } 僅傳至 #34 的方法 
+// #39 行的 this 還是 Object { hello : function hello(who) }  
+
+var obj = [{name:'Hans'}];  
+bar.hello.apply(obj[0], ['deep']);  
+// 將 {name:'Hans'} 傳入 #38 的方法 
+// #39 行的 this 變成 Object { name : "Hans" } 
+// Let me introduce: deep from John
 ```
