@@ -83,7 +83,7 @@ var MyModules = (function Manager() { 
 		for (var i=0; i<deps.length; i++) {          
 			deps[i] = modules[deps[i]];        
 		}       
-		modules[name] = impl.apply( obj[count], deps );
+		modules[name] = impl.apply( obj[count], deps ); // #A
 		count++;  
 	}
 	
@@ -92,12 +92,12 @@ var MyModules = (function Manager() { 
   	return {   define: define,   get: get  }; 
 })();
 
-MyModules.define( "bar", [], function(){
+MyModules.define( "bar", [], function(){ // #B
 	console.log(this); 
 	// Object { name : "John" }      
 	
 	function hello(who) {   
-		console.log(this);    
+		console.log(this);  // #C   
 		console.log("Let me introduce: " + who + " from " + this.name);  
 	}
 	
@@ -107,12 +107,12 @@ MyModules.define( "bar", [], function(){
 var bar = MyModules.get( "bar" );  
 bar.hello( "hippo" );  
 // Let me introduce: hippo from undefined 
-// 因為 #19 行的 { name : "John" } 僅傳至 #34 的方法 
-// #39 行的 this 還是 Object { hello : function hello(who) }  
+// 因為 #A 行的 { name : "John" } 僅傳至 #B 的方法 
+// #C 行的 this 還是 Object { hello : function hello(who) }  
 
 var obj = [{name:'Hans'}];  
 bar.hello.apply(obj[0], ['deep']);  
 // 將 {name:'Hans'} 傳入 #38 的方法 
-// #39 行的 this 變成 Object { name : "Hans" } 
+// #C 行的 this 變成 Object { name : "Hans" } 
 // Let me introduce: deep from John
 ```
