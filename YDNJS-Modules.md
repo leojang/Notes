@@ -72,7 +72,7 @@ function say(greeting) {
 say.apply(person1, ['Hello']); // Hello Jon Kuperman
 say.apply(person2, ['Hello']); // Hello Kelly King
 ```
-### Apply Revist
+### Apply Revisit
 ```
 var MyModules = (function Manager() { 
 	var modules = {};  
