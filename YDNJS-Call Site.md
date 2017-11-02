@@ -92,4 +92,4 @@ var a = "oops, global"; // `a` also property on global object
 
 bar(); // "oops, global"
 ```
->Even though bar appears to be a reference to obj.foo, in fact, it's really just another reference to foo itself. Moreover, the call-site is what matters, and the call-site is bar(), which is a plain, un-decorated call and thus the default binding applies.
+>Even though bar appears to be a reference to obj.foo, in fact, it's really just another **reference** to foo itself. Moreover, the call-site is what matters, and the call-site is bar(), which is a plain, un-decorated call and thus the default binding applies.
