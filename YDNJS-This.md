@@ -123,3 +123,34 @@ foo(); //undefined
 >We said earlier that this is not an author-time binding but a runtime binding. It is contextual based on the conditions of the function's invocation. this binding has nothing to do with where a function is declared, but has instead everything to do with the manner in which the function is called.
 
 >When a function is invoked, an activation record, otherwise known as an execution context, is created. This record contains information about where the function was called from (the call-stack), how the function was invoked, what parameters were passed, etc. One of the properties of this record is the this reference which will be used for the duration of that function's execution.
+```
+// this指向於調用該函式之物件   
+var mod1 = (function foo(num) {    
+	// keep track of how many times `foo` is called  
+	this.count++;    
+	
+	function boo()  {      
+		console.log(this); // [Object Object]   
+		return {a:'name'};     
+	}    
+	
+	return {   define: boo  };   
+})();   
+
+mod1.define();  
+
+// 如果調用函式的前方並未有物件，則函式內this就指向全域物件 
+var mod2 = (function foo(num) {    
+	// keep track of how many times `foo` is called  
+	this.count++;    
+	
+	function boo()  {      
+		console.log(this); // [Object Window]   
+		return {a:'name'};     
+	}    
+	
+	return boo;   
+})();   
+
+mod2();
+```
