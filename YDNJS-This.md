@@ -97,3 +97,18 @@ for (i=0; i<10; i++) {
 // how many times was `foo` called?
 console.log( foo.count ); // 4
 ```
+### Its Scope
+>To be clear, this does not, in any way, refer to a function's lexical scope. It is true that internally, scope is kind of like an object with properties for each of the available identifiers. But the scope "object" is not accessible to JavaScript code. It's an inner part of the Engine's implementation.
+Consider code which attempts (and fails!) to cross over the boundary and use this to implicitly refer to a function's lexical scope:
+```
+function foo() {
+	var a = 2;
+	this.bar();
+}
+
+function bar() {
+	console.log( this.a );
+}
+
+foo(); //undefined
+```
