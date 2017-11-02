@@ -1,3 +1,4 @@
+### Call Site
 >To understand this binding, we have to understand the call-site: the location in code where a function is called (not where it's declared). We must inspect the call-site to answer the question: what's this this a reference to?
 ```
 function baz() {
@@ -25,3 +26,5 @@ function foo() {
 
 baz(); // <-- call-site for `baz`
 ```
+### Rules
+## Default Binding
