@@ -154,3 +154,18 @@ var mod2 = (function foo(num) {    
 
 mod2();
 ```
+### Other Examples
+```
+var x = 10;
+var obj = {
+	x: 20,
+	f: function(){
+		console.log(this.x);
+		var foo = function(){ console.log(this.x); }
+		foo(); // (2)
+	}
+};
+
+obj.f();  // (1)
+```
+>這個範例會輸出多少呢？別忘記大原則，在Javascript裡的this看的是究竟是誰調用該函式，故並不會輸出20 20，而是輸出20 10，為什麼呢？因為(1)obj.f()調用時，f前面物件為obj，故f內的this指向obj。但因為調用f內的(2)foo函式時是用foo()，調用的前方並未有物件，故foo內的this指向全域物件，所以輸出會是全域變數的x的值。
