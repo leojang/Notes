@@ -148,3 +148,4 @@ setTimeout( bar, 100 ); // 2
 // so that it cannot be overriden
 bar.call( window ); // 2
 ```
+>Let's examine how this variation works. We create a function bar() which, internally, manually calls foo.call(obj), thereby forcibly invoking foo with obj binding for this. No matter how you later invoke the function bar, it will always manually invoke foo with obj. This binding is both explicit and strong, so we call it hard binding.
