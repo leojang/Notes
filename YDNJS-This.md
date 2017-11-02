@@ -26,7 +26,7 @@ for (i=0; i<10; i++)
 // foo: 8 
 // foo: 9
 
-// how many times was `foo` called? 
+// how many times was foo called? 
 console.log( foo.count ); // 0 -- WTF? 
 console.log( count ); // NaN
 ```
