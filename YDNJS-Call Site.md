@@ -27,4 +27,4 @@ function foo() {
 baz(); // <-- call-site for `baz`
 ```
 ### Rules
-## Default Binding
+#### Default Binding
