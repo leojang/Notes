@@ -30,3 +30,13 @@ for (i=0; i<10; i++)
 console.log( foo.count ); // 0 -- WTF? 
 console.log( count ); // NaN
 ```
+```
+function foo() {
+	foo.count = 4; // `foo` refers to itself
+}
+
+setTimeout( function(){
+	// anonymous function (no name), cannot
+	// refer to itself
+}, 10 );
+```
