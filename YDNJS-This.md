@@ -119,3 +119,4 @@ foo(); //undefined
 >However, the developer who writes such code is attempting to use this to create a bridge between the lexical scopes of foo() and bar(), so that bar() has access to the variable a in the inner scope of foo(). No such bridge is possible. You cannot use a this reference to look something up in a lexical scope. It is not possible.
 
 >Every time you feel yourself trying to mix lexical scope look-ups with this, remind yourself: there is no bridge.
+### What's `this`?
