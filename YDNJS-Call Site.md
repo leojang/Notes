@@ -208,3 +208,14 @@ var b = bar( 3 ); // 2 3
 console.log( b ); // 5
 ```
 ### `new` Binding
+>The fourth and final rule for this binding requires us to re-think a very common misconception about functions and objects in JavaScript.
+
+>In traditional class-oriented languages, "constructors" are special methods attached to classes, that when the class is instantiated with a new operator, the constructor of that class is called. This usually looks something like:
+
+```
+something = new MyClass(..);
+```
+
+>JavaScript has a new operator, and the code pattern to use it looks basically identical to what we see in those class-oriented languages; most developers assume that JavaScript's mechanism is doing something similar. However, there really is no connection to class-oriented functionality implied by new usage in JS.
+
+>First, let's re-define what a "constructor" in JavaScript is. In JS, constructors are just functions that happen to be called with the new operator in front of them. They are not attached to classes, nor are they instantiating a class. They are not even special types of functions. They're just regular functions that are, in essence, hijacked by the use of new in their invocation.
