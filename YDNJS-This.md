@@ -115,5 +115,7 @@ function bar() {
 foo(); //undefined
 ```
 >An attempt is made to reference the bar() function via this.bar(). It is almost certainly an accident that it works. The most natural way to have invoked bar() would have been to omit the leading this. and just make a lexical reference to the identifier.
+
 >However, the developer who writes such code is attempting to use this to create a bridge between the lexical scopes of foo() and bar(), so that bar() has access to the variable a in the inner scope of foo(). No such bridge is possible. You cannot use a this reference to look something up in a lexical scope. It is not possible.
-Every time you feel yourself trying to mix lexical scope look-ups with this, remind yourself: there is no bridge.
+
+>Every time you feel yourself trying to mix lexical scope look-ups with this, remind yourself: there is no bridge.
