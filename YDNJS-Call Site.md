@@ -207,3 +207,4 @@ var bar = foo.bind( obj );
 var b = bar( 3 ); // 2 3
 console.log( b ); // 5
 ```
+### `new` Binding
