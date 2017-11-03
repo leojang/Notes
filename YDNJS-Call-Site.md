@@ -212,8 +212,8 @@ var bar = bind( foo, obj );
 var b = bar( 3 ); // 2 3
 console.log( b ); // 5
 ```
->Since hard binding is such a common pattern, it's provided with a built-in utility as of ES5: Function.prototype.bind, and it's used like this:
-```
+Since hard binding is such a common pattern, it's provided with a built-in utility as of ES5: Function.prototype.bind, and it's used like this:
+```javascript
 function foo(something) {
 	console.log( this.a, something );
 	return this.a + something;
