@@ -27,7 +27,7 @@ function foo() {
 baz(); // <-- call-site for `baz`
 ```
 ### Rules
-#### Default Binding
+### Default Binding
 ```javascript
 function foo() {
 	console.log( this.a );
@@ -69,7 +69,7 @@ var a = 2;
 ```
 **Note** Don't mix `strict mode` and `non-strict mode` together 
 
-#### Implicit Binding
+### Implicit Binding
 ```javascript
 function foo() {
 	console.log( this.a );
