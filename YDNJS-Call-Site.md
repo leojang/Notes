@@ -1,5 +1,5 @@
 ### Call Site
->To understand *this* binding, we have to understand the call-site: the location in code where a function is called (**not where it's declared**). We must inspect the call-site to answer the question: what's this *this* a reference to?
+To understand *this* binding, we have to understand the call-site: the location in code where a function is called (**not where it's declared**). We must inspect the call-site to answer the question: what's this *this* a reference to?
 ```javascript
 function baz() {
     // call-stack is: `baz`
@@ -37,9 +37,9 @@ var a = 2;
 
 foo(); // 2
 ```
->The first thing to note, if you were not already aware, is that variables declared in the global scope, as var a = 2 is, are synonymous with global-object properties of the same name. They're not copies of each other, they are each other. Think of it as two sides of the same coin.
+The first thing to note, if you were not already aware, is that variables declared in the global scope, as var a = 2 is, are synonymous with global-object properties of the same name. They're not copies of each other, they are each other. Think of it as two sides of the same coin.
 
->Secondly, we see that when foo() is called, *this.a* resolves to our global variable a. Why? Because in this case, the default binding for this applies to the function call, and so points this at the global object.
+Secondly, we see that when foo() is called, *this.a* resolves to our global variable a. Why? Because in this case, the default binding for this applies to the function call, and so points this at the global object.
 
 ```javascript
 function foo() {
@@ -52,7 +52,7 @@ var a = 2;
 
 foo(); // TypeError: `this` is `undefined`, contents run in strict mode
 ```
-> A subtle but important detail is: even though the overall `this` binding rules are entirely based on the call-site, `the global object is **only** eligible for the default binding if the **contents** of foo() are **not** running in *strict mode*`; the *strict mode* state of the call-site of *foo()* is irrelevant.
+A subtle but important detail is: even though the overall `this` binding rules are entirely based on the call-site, `the global object is only eligible for the default binding if the contents of foo() are not running in strict mode`; the *strict mode* state of the call-site of *foo()* is irrelevant.
 ```javascript
 function foo() {
 	console.log( this.a );
