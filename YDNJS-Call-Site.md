@@ -91,6 +91,8 @@ However, the call-site uses the _obj_ context to **reference** the function, so 
 Whatever you choose to call this pattern, at the point that _foo()_ is called, it's preceded by an object reference to _obj_. When there is a context object for a function reference, the implicit binding rule says that it's that object which should be used for the function call's _this_ binding.
 
 #### Implicitly Lost
+One of the most common frustrations that _this_ binding creates is when an implicitly bound function loses that binding, which usually means it falls back to the _default binding_, of either the _global object_ or _undefined_, depending on strict mode.
+
 ```javascript
 function foo() {
 	console.log( this.a );
@@ -107,7 +109,7 @@ var a = "oops, global"; // `a` also property on global object
 
 bar(); // "oops, global"
 ```
->Even though bar appears to be a reference to obj.foo, in fact, it's really just another **reference** to foo itself. Moreover, the call-site is what matters, and the call-site is bar(), which is a plain, un-decorated call and thus the default binding applies.
+Even though bar appears to be a reference to obj.foo, in fact, **it's really just another _reference_ to foo itself**. Moreover, the call-site is what matters, and the call-site is _bar()_, which is a plain, un-decorated call and thus the default binding applies.
 
 ```javascript
 function foo() {
@@ -129,7 +131,8 @@ var a = "oops, global"; // `a` also property on global object
 
 doFoo( obj.foo ); // "oops, global"
 ```
->Parameter passing is just an implicit assignment, and since we're passing a function, it's an implicit reference assignment, so the end result is the same as the previous snippet.
+Parameter passing is just an implicit assignment, and since we're passing a function, it's an implicit reference assignment, so the end result is the same as the previous snippet.
+
 ### Explicit Binding
 ```javascript
 function foo() {
