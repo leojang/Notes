@@ -74,7 +74,7 @@ var a = 2;
 #### Implicit Binding
 >Another rule to consider is: does the call-site have a context object, also referred to as an owning or containing object, though these alternate terms could be slightly misleading.
 
->Firstly, notice the manner in which `foo()` is declared and then later added as a reference property onto `obj`. Regardless of whether `foo()` is initially declared on `obj`, or is added as a reference later (as this snippet shows), in neither case is * the **function** really "owned" or "contained" by the obj object*.
+>Firstly, notice the manner in which `foo()` is declared and then later added as a reference property onto `obj`. Regardless of whether `foo()` is initially declared on `obj`, or is added as a reference later (as this snippet shows), in neither case is *the **function** really "owned" or "contained" by the obj object*.
 
 >However, the call-site uses the obj context to **reference** the function, so you could say that *the obj object "owns" or "contains" the **function reference** at the time the function is called*.
 
