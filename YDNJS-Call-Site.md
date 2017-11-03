@@ -52,7 +52,7 @@ var a = 2;
 
 foo(); // TypeError: `this` is `undefined`
 ```
-> A subtle but important detail is: even though the overall this binding rules are entirely based on the call-site, the global object is only eligible for the default binding if the contents of foo() are not running in strict mode; the strict mode state of the call-site of foo() is irrelevant.
+> A subtle but important detail is: even though the overall `this` binding rules are entirely based on the call-site, the global object is **only** eligible for the default binding if the **contents** of `foo()` are **not** running in `strict mode`; the `strict mode` state of the call-site of `foo()` is irrelevant.
 ```
 function foo() {
 	console.log( this.a );
