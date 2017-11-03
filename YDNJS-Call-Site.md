@@ -228,6 +228,8 @@ var bar = foo.bind( obj );
 var b = bar( 3 ); // 2 3
 console.log( b ); // 5
 ```
+_bind(..)_ returns a new function that is hard-coded to call the original function with the _this_ context set as you specified.
+
 ### `new` Binding
 >The fourth and final rule for this binding requires us to re-think a very common misconception about functions and objects in JavaScript.
 
