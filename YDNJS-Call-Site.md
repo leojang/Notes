@@ -66,6 +66,7 @@ var a = 2;
 	foo(); // 2
 })();
 ```
+>**Note** Don't mix `strict mode` and `non-strict mode` together 
 #### Implicit Binding
 >Another rule to consider is: does the call-site have a context object, also referred to as an owning or containing object, though these alternate terms could be slightly misleading.
 
