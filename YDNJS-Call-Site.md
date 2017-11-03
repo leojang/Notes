@@ -27,7 +27,7 @@ function foo() {
 baz(); // <-- call-site for `baz`
 ```
 ### Rules
-### Default Binding
+### Rule 1 : Default Binding
 ```javascript
 function foo() {
 	console.log( this.a );
@@ -69,7 +69,7 @@ var a = 2;
 ```
 **Note** Don't mix `strict mode` and `non-strict mode` together 
 
-### Implicit Binding
+### Rule 2 : Implicit Binding
 ```javascript
 function foo() {
 	console.log( this.a );
@@ -133,7 +133,7 @@ doFoo( obj.foo ); // "oops, global"
 ```
 **Parameter passing is just an implicit assignment**, and since we're passing a function, it's an implicit reference assignment, so the end result is the same as the previous snippet.
 
-### Explicit Binding
+### Rule 3 : Explicit Binding
 ```javascript
 function foo() {
 	console.log( this.a );
@@ -148,7 +148,7 @@ foo.call( obj ); // 2
 
 If you pass a simple primitive value (of type string, boolean, or number) as the this binding, the primitive value is wrapped in its object-form (new String(..), new Boolean(..), or new Number(..), respectively). This is often referred to as "boxing".
 
-### Hard Binding
+#### Hard Binding : Explicit Binding Variation
 ```javascript
 function foo() {
 	console.log( this.a );
@@ -230,28 +230,28 @@ console.log( b ); // 5
 ```
 _bind(..)_ returns a new function that is hard-coded to call the original function with the _this_ context set as you specified.
 
-### `new` Binding
->The fourth and final rule for this binding requires us to re-think a very common misconception about functions and objects in JavaScript.
+### Rule 4 : `new` Binding
+The fourth and final rule for this binding requires us to re-think a very common misconception about functions and objects in JavaScript.
 
->In traditional class-oriented languages, "constructors" are special methods attached to classes, that when the class is instantiated with a new operator, the constructor of that class is called. This usually looks something like:
+In traditional class-oriented languages, "constructors" are special methods attached to classes, that when the class is instantiated with a new operator, the constructor of that class is called. This usually looks something like:
 
-```
+```javascript
 something = new MyClass(..);
 ```
 
->JavaScript has a new operator, and the code pattern to use it looks basically identical to what we see in those class-oriented languages; most developers assume that JavaScript's mechanism is doing something similar. However, there really is no connection to class-oriented functionality implied by new usage in JS.
+JavaScript has a new operator, and the code pattern to use it looks basically identical to what we see in those class-oriented languages; most developers assume that JavaScript's mechanism is doing something similar. However, there really is no connection to class-oriented functionality implied by new usage in JS.
 
->First, let's re-define what a "constructor" in JavaScript is. In JS, constructors are **just functions** that happen to be called with the new operator in front of them. They are not attached to classes, nor are they instantiating a class. They are not even special types of functions. They're just regular functions that are, in essence, hijacked by the use of new in their invocation.
+First, let's re-define what a "constructor" in JavaScript is. In JS, constructors are **just functions** that happen to be called with the new operator in front of them. They are not attached to classes, nor are they instantiating a class. They are not even special types of functions. They're just regular functions that are, in essence, hijacked by the use of new in their invocation.
 
->So, pretty much any ol' function, including the built-in object functions like Number(..) (see Chapter 3) can be called with new in front of it, and that makes that function call a constructor call. This is an important but subtle distinction: there's really no such thing as "constructor functions", but rather construction calls of functions.
+So, pretty much any ol' function, including the built-in object functions like Number(..) (see Chapter 3) can be called with new in front of it, and that makes that function call a constructor call. This is an important but subtle distinction: there's really no such thing as "constructor functions", but rather construction calls of functions.
 
->When a function is invoked with new in front of it, otherwise known as a constructor call, the following things are done automatically:
+When a function is invoked with new in front of it, otherwise known as a constructor call, the following things are done automatically:
 
 1. a brand new object is created (aka, constructed) out of thin air
 2. the newly constructed object is [[Prototype]]-linked
 3. the newly constructed object is set as the this binding for that function call
 4. unless the function returns its own alternate object, the new-invoked function call will automatically return the newly constructed object.
-```
+```javascript
 function foo(a) {
 	this.a = a;
 }
