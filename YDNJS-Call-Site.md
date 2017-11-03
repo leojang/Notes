@@ -1,6 +1,6 @@
 ### Call Site
 >To understand `this` binding, we have to understand the call-site: the location in code where a function is called (**not where it's declared**). We must inspect the call-site to answer the question: what's this `this` a reference to?
-```
+```javascript
 function baz() {
     // call-stack is: `baz`
     // so, our call-site is in the global scope
@@ -28,7 +28,7 @@ baz(); // <-- call-site for `baz`
 ```
 ### Rules
 #### Default Binding
-```
+```javascript
 function foo() {
 	console.log( this.a );
 }
@@ -41,7 +41,7 @@ foo(); // 2
 
 >Secondly, we see that when foo() is called, this.a resolves to our global variable a. Why? Because in this case, the default binding for this applies to the function call, and so points this at the global object.
 
-```
+```javascript
 function foo() {
 	"use strict";
 
@@ -53,7 +53,7 @@ var a = 2;
 foo(); // TypeError: `this` is `undefined`, contents run in strict mode
 ```
 > A subtle but important detail is: even though the overall `this` binding rules are entirely based on the call-site, the global object is **only** eligible for the default binding if the **contents** of `foo()` are **not** running in `strict mode`; the `strict mode` state of the call-site of `foo()` is irrelevant.
-```
+```javascript
 function foo() {
 	console.log( this.a );
 }
@@ -70,14 +70,14 @@ var a = 2;
 #### Implicit Binding
 >Another rule to consider is: does the call-site have a context object, also referred to as an owning or containing object, though these alternate terms could be slightly misleading.
 
->Firstly, notice the manner in which foo() is declared and then later added as a reference property onto obj. Regardless of whether foo() is initially declared on obj, or is added as a reference later (as this snippet shows), in neither case is the **function** really "owned" or "contained" by the obj object.
+>Firstly, notice the manner in which `foo()` is declared and then later added as a reference property onto `obj`. Regardless of whether `foo()` is initially declared on `obj`, or is added as a reference later (as this snippet shows), in neither case is the **function** really "owned" or "contained" by the obj object.
 
 >However, the call-site uses the obj context to **reference** the function, so you could say that the obj object "owns" or "contains" the **function reference** at the time the function is called.
 
 >Whatever you choose to call this pattern, at the point that foo() is called, it's preceded by an object reference to obj. When there is a context object for a function reference, the implicit binding rule says that it's that object which should be used for the function call's `this` binding.
 
 #### Implicitly Lost
-```
+```javascript
 function foo() {
 	console.log( this.a );
 }
@@ -95,7 +95,7 @@ bar(); // "oops, global"
 ```
 >Even though bar appears to be a reference to obj.foo, in fact, it's really just another **reference** to foo itself. Moreover, the call-site is what matters, and the call-site is bar(), which is a plain, un-decorated call and thus the default binding applies.
 
-```
+```javascript
 function foo() {
 	console.log( this.a );
 }
@@ -117,7 +117,7 @@ doFoo( obj.foo ); // "oops, global"
 ```
 >Parameter passing is just an implicit assignment, and since we're passing a function, it's an implicit reference assignment, so the end result is the same as the previous snippet.
 ### Explicit Binding
-```
+```javascript
 function foo() {
 	console.log( this.a );
 }
@@ -129,7 +129,7 @@ var obj = {
 foo.call( obj ); // 2
 ```
 ### Hard Binding
-```
+```javascript
 function foo() {
 	console.log( this.a );
 }
@@ -152,7 +152,7 @@ bar.call( window ); // 2
 >Let's examine how this variation works. We create a function bar() which, internally, manually calls foo.call(obj), thereby forcibly invoking foo with obj binding for this. No matter how you later invoke the function bar, it will always manually invoke foo with obj. This binding is both explicit and strong, so we call it hard binding.
 
 >The most typical way to wrap a function with a hard binding creates a pass-thru of any arguments passed and any return value received:
-```
+```javascript
 function foo(something) {
 	console.log( this.a, something );
 	return this.a + something;
