@@ -145,6 +145,9 @@ var obj = {
 
 foo.call( obj ); // 2
 ```
+
+If you pass a simple primitive value (of type string, boolean, or number) as the this binding, the primitive value is wrapped in its object-form (new String(..), new Boolean(..), or new Number(..), respectively). This is often referred to as "boxing".
+
 ### Hard Binding
 ```javascript
 function foo() {
