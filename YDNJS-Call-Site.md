@@ -67,15 +67,16 @@ var a = 2;
 	foo(); // 2
 })();
 ```
->**Note** Don't mix `strict mode` and `non-strict mode` together 
+**Note** Don't mix `strict mode` and `non-strict mode` together 
+
 #### Implicit Binding
->Another rule to consider is: does the call-site have a context object, also referred to as an owning or containing object, though these alternate terms could be slightly misleading.
+Another rule to consider is: does the call-site have a context object, also referred to as an owning or containing object, though these alternate terms could be slightly misleading.
 
->Firstly, notice the manner in which `foo()` is declared and then later added as a reference property onto `obj`. Regardless of whether `foo()` is initially declared on `obj`, or is added as a reference later (as this snippet shows), in neither case is *the **function** really "owned" or "contained" by the obj object*.
+Firstly, notice the manner in which *foo()* is declared and then later added as a reference property onto *obj*. Regardless of whether *foo()* is initially declared on *obj*, or is added as a reference later (as this snippet shows), in neither case is **the *function* really "owned" or "contained" by the _obj_ object.
 
->However, the call-site uses the obj context to **reference** the function, so you could say that *the obj object "owns" or "contains" the **function reference** at the time the function is called*.
+However, the call-site uses the _obj_ context to **reference** the function, so you could say that **the obj object "owns" or "contains" the _function reference_ at the time the function is called.
 
->Whatever you choose to call this pattern, at the point that foo() is called, it's preceded by an object reference to obj. When there is a context object for a function reference, the implicit binding rule says that it's that object which should be used for the function call's `this` binding.
+Whatever you choose to call this pattern, at the point that _foo()_ is called, it's preceded by an object reference to _obj_. When there is a context object for a function reference, the implicit binding rule says that it's that object which should be used for the function call's _this_ binding.
 
 #### Implicitly Lost
 ```javascript
