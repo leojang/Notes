@@ -70,7 +70,7 @@ var a = 2;
 **Note** Don't mix `strict mode` and `non-strict mode` together 
 
 #### Implicit Binding
-```
+```javascript
 function foo() {
 	console.log( this.a );
 }
