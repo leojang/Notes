@@ -131,7 +131,7 @@ var a = "oops, global"; // `a` also property on global object
 
 doFoo( obj.foo ); // "oops, global"
 ```
-Parameter passing is just an implicit assignment, and since we're passing a function, it's an implicit reference assignment, so the end result is the same as the previous snippet.
+**Parameter passing is just an implicit assignment**, and since we're passing a function, it's an implicit reference assignment, so the end result is the same as the previous snippet.
 
 ### Explicit Binding
 ```javascript
