@@ -1,5 +1,9 @@
+```diff 
++To understand 
+``` 
+
 ### Call Site
->```diff +To understand ``` `this` binding, we have to understand the call-site: the location in code where a function is called (**not where it's declared**). We must inspect the call-site to answer the question: what's this `this` a reference to?
+>To understand `this` binding, we have to understand the call-site: the location in code where a function is called (**not where it's declared**). We must inspect the call-site to answer the question: what's this `this` a reference to?
 ```javascript
 function baz() {
     // call-stack is: `baz`
