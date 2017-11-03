@@ -70,6 +70,18 @@ var a = 2;
 **Note** Don't mix `strict mode` and `non-strict mode` together 
 
 #### Implicit Binding
+```
+function foo() {
+	console.log( this.a );
+}
+
+var obj = {
+	a: 2,
+	foo: foo
+};
+
+obj.foo(); // 2
+```
 Another rule to consider is: does the call-site have a context object, also referred to as an owning or containing object, though these alternate terms could be slightly misleading.
 
 Firstly, notice the manner in which *foo()* is declared and then later added as a reference property onto *obj*. Regardless of whether *foo()* is initially declared on *obj*, or is added as a reference later (as this snippet shows), in neither case is **the *function* really "owned" or "contained" by the _obj_ object**.
