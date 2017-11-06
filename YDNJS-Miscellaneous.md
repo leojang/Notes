@@ -133,9 +133,9 @@ var User = {  
     } 
 }; User.print(); // undefined made 34 comments
 ```
+Fix this using _bind()_
 
-```javascript
-\\ How To Fix This?
+```javascript 
 var User = {
     fullName: 'John Black',
     print: function() {
