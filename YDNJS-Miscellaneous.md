@@ -116,6 +116,24 @@ var p = new _Person('Mackenson', 17); 
 // undefined Mackenson 17
 ```
 :bulb: _call_ 跟 _apply_ 會馬上呼叫方法，_bind_不會馬上呼叫，可之後再呼叫
+### More On _bind()
+```javascript
+var getUserComments = function(callback) {  
+    // perform asynch operation like ajax call  
+    var numOfCommets = 34;  
+    callback({ comments: numOfCommets }); 
+}; 
+
+var User = {  
+    fullName: 'John Black',  
+    print: function() {   
+        getUserComments(function(data) {    
+            console.log(this.fullName + ' made ' + data.comments + ' comments');   
+        });  
+    } 
+}; User.print();
+```
+
 ### Borrow Methods
 ```javascript
 function fruits() {} 
