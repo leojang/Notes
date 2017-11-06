@@ -29,6 +29,6 @@ var my_object = {
 ```
 This is obviously not an Array, but if you can set it as the _this_ value of _.slice()_, then it will just work, because it looks enough like an Array for _.slice()_ to work properly.
 ```javascript
-var sliced = Array.prototype.slice.call( my_object, 3 );
+var sliced = Array.prototype.slice.call( my_object, 3 ); //['three','four']
 ```
-the result is what we expect:['three','four'];So this is what happens when you set an arguments object as the _this_ value of _.slice()_. Because arguments has a _.length_ property and a bunch of numeric indices, _.slice()_ just goes about its work as if it were working on a real Array.
+So this is what happens when you set an arguments object as the _this_ value of _.slice()_. Because arguments has a _.length_ property and a bunch of numeric indices, _.slice()_ just goes about its work as if it were working on a real Array.
