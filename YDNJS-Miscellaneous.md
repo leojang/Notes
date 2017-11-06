@@ -65,3 +65,17 @@ console.log("Output using .bind() below ");
 
 console.log(bound("Newtown","KOLKATA","WB")); //call the bound function
 ```
+如果某些函數，前幾個參數已經 “內定” 了，我們便可以用 bind 返回一個新的函數。也就是說，bind() 能使一個函數擁有預設的初始參數。這些參數（如果有的話）作為 bind() 的第二個參數跟在 this 後面，之後它們會被插入到目標函數的參數清單的開始位置，傳遞給綁定函數的參數會跟在它們的後面。
+```
+function list() {
+  return Array.prototype.slice.call(arguments);
+}
+
+var list1 = list(1, 2, 3); // [1, 2, 3]
+
+// Create a function with a preset leading argument
+var leadingThirtysevenList = list.bind(undefined, 37);
+
+var list2 = leadingThirtysevenList(); // [37]
+var list3 = leadingThirtysevenList(1, 2, 3); // [37, 1, 2, 3]
+```
