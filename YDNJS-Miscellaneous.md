@@ -115,4 +115,4 @@ var _Person = Person.bind(boy); 
 var p = new _Person('Mackenson', 17); 
 // undefined Mackenson 17
 ```
-:bulb: _call_ 跟 _apply_ 會馬上呼叫方法，_bind_不會馬上呼叫可，可之後再呼叫
+:bulb: _call_ 跟 _apply_ 會馬上呼叫方法，_bind_不會馬上呼叫，可之後再呼叫
