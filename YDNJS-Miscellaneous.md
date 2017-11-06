@@ -116,3 +116,20 @@ var p = new _Person('Mackenson', 17); 
 // undefined Mackenson 17
 ```
 :bulb: _call_ 跟 _apply_ 會馬上呼叫方法，_bind_不會馬上呼叫，可之後再呼叫
+### Borrow Methods
+```javascript
+function fruits() {} 
+fruits.prototype = {    
+    color: "red",    
+    say: function() {        
+        console.log("My color is " + this.color);    
+    }
+} 
+
+var apple = new fruits;
+apple.say();    //My color is red
+
+banana = {color: "yellow"}
+apple.say.call(banana);     //My color is yellow
+apple.say.apply(banana);    //My color is yellow
+```
