@@ -131,7 +131,20 @@ var User = {  
             console.log(this.fullName + ' made ' + data.comments + ' comments');   
         });  
     } 
-}; User.print();
+}; User.print(); // undefined made 34 comments
+```
+
+```javascript
+\\ How To Fix This?
+var User = {
+    fullName: 'John Black',
+    print: function() {
+        getUserComments(function(data) {
+            console.log(this.fullName + ' made ' + data.comments + ' comments');
+        }.bind(this));
+    }
+};
+User.print();
 ```
 
 ### Borrow Methods
