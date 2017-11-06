@@ -1,3 +1,4 @@
+https://stackoverflow.com/questions/46528091/how-is-new-operator-able-to-override-hard-binding-in-the-function-prototype-b
 ### Array.prototype.slice.call
 
 What happens under the hood is that when _.slice()_ is called normally, this is an Array, and then it just iterates over that Array, and does its work.
