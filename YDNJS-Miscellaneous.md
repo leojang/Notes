@@ -80,6 +80,10 @@ var list2 = leadingThirtysevenList(); // [37]
 var list3 = leadingThirtysevenList(1, 2, 3); // [37, 1, 2, 3]
 ```
 使用 bind 返回的結果還是個 function，是個 function 就可以被 new 運算子調用，那麼結果呢？:bangbang: **規範中說的很清楚了，當使用 new 操作符調用綁定函數時，bind 的第一個參數無效**。
+
+Why is new being able to override hard binding useful?The primary reason for this behavior is to create a function (that can be used with new for constructing objects) that essentially ignores the this hard binding but which presets some or all of the function's arguments. One of the capabilities of bind(..) is that any arguments passed after the first this binding argument are defaulted as standard arguments to the underlying function (technically called "partial application", which is a subset of "currying").
+
+
 ```javascript
 var boy = {firstName:'Cory'};  
 function Person(lastName, age) {     
