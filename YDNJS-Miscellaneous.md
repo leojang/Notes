@@ -79,4 +79,4 @@ var leadingThirtysevenList = list.bind(undefined, 37);
 var list2 = leadingThirtysevenList(); // [37]
 var list3 = leadingThirtysevenList(1, 2, 3); // [37, 1, 2, 3]
 ```
-使用 bind 返回的結果還是個 function，是個 function 就可以被 new 運算子調用，那麼結果呢？:heavy_exclaimnation_mark:**規範中說的很清楚了，當使用 new 操作符調用綁定函數時，bind 的第一個參數無效**。
+使用 bind 返回的結果還是個 function，是個 function 就可以被 new 運算子調用，那麼結果呢？:bangbang: **規範中說的很清楚了，當使用 new 操作符調用綁定函數時，bind 的第一個參數無效**。
