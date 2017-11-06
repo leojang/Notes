@@ -1,4 +1,5 @@
 # Current Reading
+https://aws.amazon.com/tw/earth/
 https://github.com/thedaviddias/Front-End-Checklist
 https://www.vox.com/science-and-health/2017/10/18/15995478/chocolate-health-benefits-heart-disease
 https://hackaday.com/2017/10/18/practical-public-key-cryptography/
