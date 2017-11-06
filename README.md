@@ -1,4 +1,5 @@
 # Current Reading
+https://techbeacon.com/javascript-leaders-you-should-follow-twitter
 https://betterhumans.coach.me/joseph-campbells-daily-routine-for-the-most-important-period-of-my-scholarship-and-study-68d1c35dd0d5
 https://aws.amazon.com/tw/earth/
 https://github.com/thedaviddias/Front-End-Checklist
