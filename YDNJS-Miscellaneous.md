@@ -80,3 +80,38 @@ var list2 = leadingThirtysevenList(); // [37]
 var list3 = leadingThirtysevenList(1, 2, 3); // [37, 1, 2, 3]
 ```
 使用 bind 返回的結果還是個 function，是個 function 就可以被 new 運算子調用，那麼結果呢？:bangbang: **規範中說的很清楚了，當使用 new 操作符調用綁定函數時，bind 的第一個參數無效**。
+```javascript
+var boy = {firstName:'Cory'};  
+function Person(lastName, age) {     
+    this.name = this.firstName + ' ' + lastName;  
+    this.age = age;     
+    return {   
+        name: this.name,   
+        age: this.age  
+    } 
+}
+
+var _Person = Person.bind(boy, 'Mackenson', 12 );   
+var p = _Person();  
+// Cory Mackenson 12   
+
+var _Person = Person.bind(boy, 'Mackenson' );  
+var p = _Person(13); 
+// Cory Mackenson 13   
+
+var _Person = Person.bind(boy);  
+var p = _Person('Mackenson', 14); 
+// Cory Mackenson 14    
+
+var _Person = Person.bind(boy, 'Mackenson', 15 );  
+var p = new _Person(); 
+// undefined Mackenson 15   
+
+var _Person = Person.bind(boy, 'Mackenson' );  
+var p = new _Person(16); 
+// undefined Mackenson 16  
+
+var _Person = Person.bind(boy); 
+var p = new _Person('Mackenson', 17); 
+// undefined Mackenson 17
+```
