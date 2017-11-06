@@ -46,7 +46,7 @@ var my_object = {  
 };  
 var sliced = Array.prototype.slice.call( my_object, 3 );  
 console.log(sliced); // ['zero', undefined]
-
+```
 ### Bind()
 ```javascript
 var obj = {name:"Niladri"};
