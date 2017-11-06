@@ -38,6 +38,9 @@ https://www.codeproject.com/Articles/798001/ASP-NET-Identity-Extending-Identity-
 https://laverna.cc/#download
 https://www.microsoft.com/en-us/download/details.aspx?id=4451
 https://keybase.io/
+https://www.youtube.com/watch?v=Ilg3gGewQ5U
+https://www.neustadt.fr/essays/against-a-user-hostile-web/
+http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/
 
 # Trending
 https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world
@@ -74,6 +77,7 @@ https://code.tutsplus.com/tutorials/ssh-what-and-how--net-25138
 # Parenting
 https://www.quantamagazine.org/math-and-science-teachers-pencils-down-20161011/
 https://mathoverflow.net/questions/281447/mathematical-games-interesting-to-both-you-and-a-5-year-old-child
+http://www.math.tamu.edu/~cyan/Rota/mitless.html
 
 # Golang
 https://michael.stapelberg.de/Artikel/golang_favorite
