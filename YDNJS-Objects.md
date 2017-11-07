@@ -24,3 +24,15 @@ Note that the simple primitives (string, number, boolean, null, and undefined) a
 
 :bulb:__It's a common mis-statement that "everything in JavaScript is an object". This is clearly not true.__
 
+function is a sub-type of object (technically, a "callable object"). Functions in JS are said to be "first class" in that they are basically just normal objects (with callable behavior semantics bolted on), and so they can be handled like any other plain object.
+
+### Built-in Objects
+- String
+- Number
+- Boolean
+- Object
+- Function
+- Array
+- Date
+- Reg
+- ExpError
