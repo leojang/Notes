@@ -49,6 +49,7 @@ var sliced = Array.prototype.slice.call( my_object, 3 );  
 console.log(sliced); // ['zero', undefined]
 ```
 ### Bind()
+_bind(..)_ returns a **new** function that is hard-coded to call the original function with the this context set as you specified.
 ```javascript
 var obj = {name:"Niladri"};
 
