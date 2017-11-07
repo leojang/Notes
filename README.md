@@ -7,6 +7,8 @@ https://xxxgitone.github.io/2017/06/08/一篇文章看懂-proto-和prototype的�
 https://medium.com/@peterchang_82818/javascripter-必須知道的繼承因子-prototype-prototype-proto-object-class-inheritace-nodejs-物件-繼承-54102240a8b4
 https://segmentfault.com/q/1010000005005535
 https://mengera88.github.io/2017/06/06/javascript对象详解：搞清楚原型与原型链/
+https://www.zhihu.com/question/29755481
+https://zhuanlan.zhihu.com/p/26625249
 
 https://techbeacon.com/javascript-leaders-you-should-follow-twitter
 https://betterhumans.coach.me/joseph-campbells-daily-routine-for-the-most-important-period-of-my-scholarship-and-study-68d1c35dd0d5
