@@ -36,3 +36,4 @@ function is a sub-type of object (technically, a "callable object"). Functions i
 - Date
 - Reg
 - ExpError
+__in JS, these are actually just built-in functions, not Class like java.__ Each of these built-in functions can be used as a _constructor_ (that is, a function call with the new operator -- see Chapter 2), with the result being a _newly constructed object_ of the sub-type in question.
