@@ -157,3 +157,4 @@ Object.preventExtensions( myObject );
 myObject.b = 3;
 myObject.b; // undefined
 ```
+### [[Get]]
