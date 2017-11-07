@@ -146,7 +146,14 @@ Object.defineProperty( myObject, "a", {
 	enumerable: true
 } ); // TypeError
 ```
-
+### Prevent Extensions
 ```javascript
+var myObject = {
+	a: 2
+};
 
+Object.preventExtensions( myObject );
+
+myObject.b = 3;
+myObject.b; // undefined
 ```
