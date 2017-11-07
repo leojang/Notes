@@ -39,3 +39,8 @@ function is a sub-type of object (technically, a "callable object"). Functions i
 __in JS, these are actually just built-in functions, not Class like java.__ Each of these built-in functions can be used as a _constructor_ (that is, a function call with the new operator -- see Chapter 2), with the result being a _newly constructed object_ of the sub-type in question.
 
 JS automatically coerces a "string" primitive to a String object when necessary
+
+### Property vs. Method
+Technically, functions never "belong" to objects, so saying that a function that just happens to be accessed on an object reference is automatically a "method" seems a bit of a stretch of semantics.
+
+Even when you declare a function expression as part of the object-literal, that function doesn't magically belong more to the object -- still just multiple references to the same function object
