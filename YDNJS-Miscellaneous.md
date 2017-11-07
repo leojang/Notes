@@ -175,3 +175,4 @@ apple.say.call(banana);     //My color is yellow
 apple.say.apply(banana);    //My color is yellow
 ```
 所以，可以看出 call 和 apply 是為了動態改變 this 而出現的，當一個 object 沒有某個方法（本栗子中banana沒有say方法），但是其他的有（本栗子中apple有say方法）， 我們可以借助call或apply用其它物件的方法來操作。
+### Prototype
