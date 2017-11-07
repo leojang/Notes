@@ -44,3 +44,18 @@ JS automatically coerces a "string" primitive to a String object when necessary
 Technically, functions never "belong" to objects, so saying that a function that just happens to be accessed on an object reference is automatically a "method" seems a bit of a stretch of semantics.
 
 Even when you declare a function expression as part of the object-literal, that function doesn't magically belong more to the object -- still just multiple references to the same function object
+
+### Duplicating Objects
+One subset solution is that objects which are JSON-safe (that is, can be serialized to a JSON string and then re-parsed to an object with the same structure and values) can easily be duplicated with:
+```javascript
+var newObj = JSON.parse( JSON.stringify( someObj ) );
+```
+At the same time, a shallow copy is fairly understandable and has far less issues, so ES6 has now defined Object.assign(..) for this task. Object.assign(..) takes a target object as its first parameter, and one or more source objects as its subsequent parameters. It iterates over all the enumerable (see below), owned keys (immediately present) on the source object(s) and copies them (via = assignment only) to target. It also, helpfully, returns target, as you can see below:
+```javascript
+var newObj = Object.assign( {}, myObject );
+
+newObj.a;						// 2
+newObj.b === anotherObject;		// true
+newObj.c === anotherArray;		// true
+newObj.d === anotherFunction;	// true
+```
