@@ -60,4 +60,93 @@ newObj.c === anotherArray;		// true
 newObj.d === anotherFunction;	// true
 ```
 ### Property Descriptors
-Prior to ES5, the JavaScript language gave no direct way for your code to inspect or draw any distinction between the characteristics of properties, such as whether the property was read-only or not.But as of ES5, all properties are described in terms of a property descriptor.
+Prior to ES5, the JavaScript language gave no direct way for your code to inspect or draw any distinction between the characteristics of properties, such as whether the property was read-only or not.
+
+But as of ES5, all properties are described in terms of a **property descriptor**.
+```javascript
+var myObject = {
+	a: 2
+};
+
+Object.getOwnPropertyDescriptor( myObject, "a" );
+// {
+//    value: 2,
+//    writable: true,
+//    enumerable: true,
+//    configurable: true
+// }
+```
+
+```javascript
+var myObject = {};
+
+Object.defineProperty( myObject, "a", {
+	value: 2,
+	writable: true,
+	configurable: true,
+	enumerable: true
+} );
+
+myObject.a; // 2
+```
+#### Writable
+```javascript
+var myObject = {};
+
+Object.defineProperty( myObject, "a", {
+	value: 2,
+	writable: false, // not writable!
+	configurable: true,
+	enumerable: true
+} );
+
+myObject.a = 3;
+
+myObject.a; // 2
+```
+
+```javascript
+"use strict";
+
+var myObject = {};
+
+Object.defineProperty( myObject, "a", {
+	value: 2,
+	writable: false, // not writable!
+	configurable: true,
+	enumerable: true
+} );
+
+myObject.a = 3; // TypeError
+```
+#### Configurable
+```javascript
+var myObject = {
+	a: 2
+};
+
+myObject.a = 3;
+myObject.a;					// 3
+
+Object.defineProperty( myObject, "a", {
+	value: 4,
+	writable: true,
+	configurable: false,	// not configurable!
+	enumerable: true
+} );
+
+myObject.a;					// 4
+myObject.a = 5;
+myObject.a;					// 5
+
+Object.defineProperty( myObject, "a", {
+	value: 6,
+	writable: true,
+	configurable: true,
+	enumerable: true
+} ); // TypeError
+```
+
+```javascript
+
+```
