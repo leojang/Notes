@@ -1,4 +1,5 @@
 # Current Reading
+https://github.com/soulmachine/leetcode
 http://selfboot.cn/aboutme.html
 https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/206md.html
 https://www.quora.com/Is-practicing-500-programming-questions-on-LeetCode-HackerEarth-etc-enough-to-prepare-for-a-Google-interview
