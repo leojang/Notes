@@ -55,6 +55,9 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 https://www.neustadt.fr/essays/against-a-user-hostile-web/
 http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/
 
+# Has some good resources on interview prep including on System Design and Machine Learning.Some of the resources for System Design:
+http://blog.gainlo.cohttp://horicky.blogspot.comhttps://www.hiredintech.com/classrooms/system-design/lesson/52http://www.lecloud.net/tagged/scalabilityhttp://tutorials.jenkov.com/software-architecture/index.htmlhttp://highscalability.com/
+
 # Trending
 https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world
 
