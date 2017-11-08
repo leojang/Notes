@@ -1,4 +1,5 @@
 # Current Reading
+https://www.quora.com/Is-practicing-500-programming-questions-on-LeetCode-HackerEarth-etc-enough-to-prepare-for-a-Google-interview
 https://github.com/haseebr/competitive-programming
 https://www.quora.com/What-are-some-good-websites-to-learn-data-structures-and-algorithms
 https://zirho.github.io/2016/06/04/hexo/
