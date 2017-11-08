@@ -1,4 +1,5 @@
 # Current Reading
+https://www.quora.com/What-are-some-good-websites-to-learn-data-structures-and-algorithms
 https://zirho.github.io/2016/06/04/hexo/
 https://stackoverflow.com/questions/46528091/how-is-new-operator-able-to-override-hard-binding-in-the-function-prototype-b
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model#Property_inheritance_revisited
