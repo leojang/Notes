@@ -257,4 +257,4 @@ According to the spec, the code above actually performs a _[[Get]]_ operation (k
 
 However, the _[[Get]]_ algorithm defines other important behavior if it does not find a property of the requested name. We will examine in Chapter 5 what happens next (traversal of the _[[Prototype]]_ chain, if any).
 
-But one important result of this _[[Get]]_ operation is that if it cannot through any means come up with a value for the requested property, it instead returns the value undefined.
+But one important result of this _[[Get]]_ operation is that if it cannot through any means come up with a value for the requested property, it instead returns the value **undefined**.
