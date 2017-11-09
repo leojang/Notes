@@ -64,6 +64,8 @@ Technically, functions never "belong" to objects, so saying that a function that
 
 Even when you declare a function expression as part of the object-literal, that function doesn't magically belong more to the object -- still just multiple references to the same function object
 
+Every time you access a property on an object, that is a **property access**, regardless of the type of value you get back. 
+
 ### Duplicating Objects
 One subset solution is that objects which are JSON-safe (that is, can be serialized to a JSON string and then re-parsed to an object with the same structure and values) can easily be duplicated with:
 ```javascript
