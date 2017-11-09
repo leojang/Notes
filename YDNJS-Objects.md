@@ -314,3 +314,22 @@ myObject.a; // 2
 myObject.b; // 4
 ```
 Either through object-literal syntax with get a() { .. } or through explicit definition with defineProperty(..), in both cases we created a property on the object that actually doesn't hold a value, but whose access automatically results in a hidden function call to the getter function, with whatever value it returns being the result of the property access.
+
+You will almost certainly want to always declare both getter and setter 
+```javascript
+var myObject = {
+	// define a getter for `a`
+	get a() {
+		return this._a_;
+	},
+
+	// define a setter for `a`
+	set a(val) {
+		this._a_ = val * 2;
+	}
+};
+
+myObject.a = 2;
+
+myObject.a; // 4
+```
