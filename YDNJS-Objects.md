@@ -434,3 +434,23 @@ arr.forEach((val) => {
     console.log(val);
 })
 ```
+https://yami.io/reduce-foreach-filter-map/
+
+### Map
+如果你希望遍歷陣列內的每個內容，然後修改原始陣列
+```javascript
+var arr = [1, 2, 3];
+
+arr.map((val) => {  
+    return val * 2;
+})
+
+console.log(arr); // [2, 4, 6]  
+```
+var arr = [1, 2, 3];
+
+arr.map((val) => {  
+    return val * 2;
+})
+
+console.log(arr); // [2, 4, 6]  
