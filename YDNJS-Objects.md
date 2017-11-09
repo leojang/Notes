@@ -285,3 +285,5 @@ If the property is present, the [[Put]] algorithm will roughly check:
 2. Is the property a data descriptor with writable of false? **If so, silently fail in non-strict mode, or throw TypeError in strict mode**.
 3. Otherwise, set the value to the existing property as normal.
 
+### Getters & Setters
+ES5 introduced a way to override part of these default operations, not on an object level but a **per-property level**, through the use of getters and setters. Getters are properties which actually _call a hidden function to retrieve a value_. Setters are properties which actually _call a hidden function to set a value_.
