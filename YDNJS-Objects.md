@@ -289,3 +289,28 @@ If the property is present, the [[Put]] algorithm will roughly check:
 ES5 introduced a way to override part of these default operations, not on an object level but a **per-property level**, through the use of getters and setters. Getters are properties which actually _call a hidden function to retrieve a value_. Setters are properties which actually _call a hidden function to set a value_.
 
 When you define a property to have either a getter or a setter or both, its definition becomes an **"accessor descriptor"** (as opposed to a "data descriptor"). For accessor-descriptors, the _value_ and _writable_ characteristics of the descriptor are moot and ignored, and instead JS considers the set and get characteristics of the property (as well as configurable and enumerable).
+```javascript
+var myObject = {
+	// define a getter for `a`
+	get a() {
+		return 2;
+	}
+};
+
+Object.defineProperty(
+	myObject,	// target
+	"b",		// property name
+	{			// descriptor
+		// define a getter for `b`
+		get: function(){ return this.a * 2 },
+
+		// make sure `b` shows up as an object property
+		enumerable: true
+	}
+);
+
+myObject.a; // 2
+
+myObject.b; // 4
+```
+Either through object-literal syntax with get a() { .. } or through explicit definition with defineProperty(..), in both cases we created a property on the object that actually doesn't hold a value, but whose access automatically results in a hidden function call to the getter function, with whatever value it returns being the result of the property access.
