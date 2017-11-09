@@ -349,3 +349,33 @@ The **in** operator will check to see if the property is in the object, or **if 
 
 hasOwnProperty(..) is accessible for all normal objects via delegation to Object.prototype (see Chapter 5). But it's possible to create an object that does not link to Object.prototype (via Object.create(null) -- see Chapter 5). In this case, a method call like myObject.hasOwnProperty(..) would fail.In that scenario, a more robust way of performing such a check is Object.prototype.hasOwnProperty.call(myObject,"a"), which borrows the base hasOwnProperty(..) method and uses explicit this binding (see Chapter 2) to apply it against our myObject.
 
+### Enumeration
+```javascript
+var myObject = { };
+
+Object.defineProperty(
+	myObject,
+	"a",
+	// make `a` enumerable, as normal
+	{ enumerable: true, value: 2 }
+);
+
+Object.defineProperty(
+	myObject,
+	"b",
+	// make `b` NON-enumerable
+	{ enumerable: false, value: 3 }
+);
+
+myObject.b; // 3
+("b" in myObject); // true
+myObject.hasOwnProperty( "b" ); // true
+
+// .......
+
+for (var k in myObject) {
+	console.log( k, myObject[k] );
+}
+// "a" 2
+```
+:bulb:It's a good idea to use for..in loops only on objects, and traditional for loops with numeric index iteration for the values stored in arrays.
