@@ -420,3 +420,17 @@ for (var i = 0; i < myArray.length; i++) {
 ```
 **This isn't iterating over the values, though, but iterating over the indices**, where you then use the index to reference the value, as myArray[i].
 
+#### forEach
+forEach(..) will iterate over all values in the array, and ignores any callback return values. 
+```javascript
+var arr = [9,8.7];
+
+arr.forEach(function (item) {
+  someFn(item);
+})
+
+// ES6 Version
+arr.forEach((val) => {  
+    console.log(val);
+})
+```
