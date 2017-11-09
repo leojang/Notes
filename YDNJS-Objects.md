@@ -169,6 +169,42 @@ Object.defineProperty( myObject, "a", {
 ```
 changing configurable to false is a **one-way action, and cannot be undone!**
 
+_configurable:false_ prevents is the ability to use the delete operator to remove an existing property.
+```javascript
+var myObject = {
+	a: 2
+};
+
+myObject.a;				// 2
+delete myObject.a;
+myObject.a;				// undefined
+
+Object.defineProperty( myObject, "a", {
+	value: 2,
+	writable: true,
+	configurable: false,
+	enumerable: true
+} );
+
+myObject.a;				// 2
+delete myObject.a;
+myObject.a;				// 2
+```
+#### Enumerable
+The name probably makes it obvious, but this characteristic controls if a property will show up in certain object-property enumerations, such as the **for..in** loop. Set to _false_ to keep it from showing up in such enumerations, even though it's still completely accessible. Set to true to keep it present.
+
+### Immutability
+#### Object Constant
+```javascript
+var myObject = {};
+
+Object.defineProperty( myObject, "FAVORITE_NUMBER", {
+	value: 42,
+	writable: false,
+	configurable: false
+} );
+```
+
 ### Prevent Extensions
 ```javascript
 var myObject = {
@@ -180,6 +216,31 @@ Object.preventExtensions( myObject );
 myObject.b = 3;
 myObject.b; // undefined
 ```
+### Seal
+**Object.seal(..)** creates a "sealed" object, which means it takes an existing object and essentially calls **Object.preventExtensions(..)** on it, but also marks all its existing properties as **configurable:false**.
+
+So, not only can you not add any more properties, but you also cannot **reconfigure or delete any existing properties (though you can still modify their values)**.
+```javascript
+var myObject = {  a: 2 };
+Object.seal(myObject);
+
+myObject.a = 3;  
+console.log(myObject.a); // 3 Can change value  myObject.
+
+b = 4;  
+console.log(myObject.b); // undefined  
+
+Object.defineProperty( myObject, "a", {  
+	value: 7,  
+	writable: true,  
+	configurable: false,  
+	enumerable: false 
+} ); 
+// can't configure writable, configurable, enumerable
+
+console.log(myObject.a); // 7
+```
+
 ### [[Get]]
 ```javascript
 var myObject = {
