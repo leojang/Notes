@@ -459,3 +459,35 @@ var newArr = arr.filter((val) => {
 
 console.log(newArr); // [3, 4]  
 ```
+
+### Reduce
+如果你希望把陣列內的內容作加總並最終回傳一個結果，那麼你就可以用上 reduce
+```javascript
+var arr = [1, 2, 3];
+
+var totalNum = arr.reduce((total, val) => {  
+    return total + val;
+}, 0);
+
+console.log(totalNum); // 6  
+```
+
+### Every
+```javascript
+function isBigEnough(element, index, array) { 
+  return element >= 10; 
+} 
+
+[12, 5, 8, 130, 44].every(isBigEnough);   // false 
+[12, 54, 18, 130, 44].every(isBigEnough); // true
+```
+
+### Some
+```javascript
+function isBiggerThan10(element, index, array) {
+  return element > 10;
+}
+
+[2, 5, 8, 1, 4].some(isBiggerThan10);  // false
+[12, 5, 8, 1, 4].some(isBiggerThan10); // true
+```
