@@ -379,3 +379,32 @@ for (var k in myObject) {
 // "a" 2
 ```
 :bulb:It's a good idea to use for..in loops only on objects, and traditional for loops with numeric index iteration for the values stored in arrays.
+```javascript
+var myObject = { };
+
+Object.defineProperty(
+	myObject,
+	"a",
+	// make `a` enumerable, as normal
+	{ enumerable: true, value: 2 }
+);
+
+Object.defineProperty(
+	myObject,
+	"b",
+	// make `b` non-enumerable
+	{ enumerable: false, value: 3 }
+);
+
+myObject.propertyIsEnumerable( "a" ); // true
+myObject.propertyIsEnumerable( "b" ); // false
+
+Object.keys( myObject ); // ["a"]
+Object.getOwnPropertyNames( myObject ); // ["a", "b"]
+```
+**propertyIsEnumerable(..)** tests whether the given property name exists **directly on the object** and is also enumerable:true.
+
+**Object.keys(..)** returns an array of all enumerable properties, whereas **Object.getOwnPropertyNames(..)** returns an array of all properties, enumerable or not.
+
+Whereas _in_ vs. _hasOwnProperty(..)_ differ in whether they consult the [[Prototype]] chain or not, Object.keys(..) and Object.getOwnPropertyNames(..) both inspect only the **direct object** specified.
+
