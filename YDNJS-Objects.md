@@ -25,6 +25,18 @@ Note that the simple primitives (string, number, boolean, null, and undefined) a
 :bulb:__It's a common mis-statement that "everything in JavaScript is an object". This is clearly not true.__
 
 function is a sub-type of object (technically, a "callable object"). Functions in JS are said to be "first class" in that they are basically just normal objects (with callable behavior semantics bolted on), and so they can be handled like any other plain object.
+```javascript
+var strPrimitive = "I am a string";
+typeof strPrimitive;						// "string"
+strPrimitive instanceof String;					// false
+
+var strObject = new String( "I am a string" );
+typeof strObject; 						// "object"
+strObject instanceof String;					// true
+
+// inspect the object sub-type
+Object.prototype.toString.call( strObject );	// [object String]
+```
 
 ### Built-in Objects
 - String
