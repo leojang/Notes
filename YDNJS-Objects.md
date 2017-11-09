@@ -71,7 +71,7 @@ One subset solution is that objects which are JSON-safe (that is, can be seriali
 ```javascript
 var newObj = JSON.parse( JSON.stringify( someObj ) );
 ```
-At the same time, a shallow copy is fairly understandable and has far less issues, so ES6 has now defined Object.assign(..) for this task. Object.assign(..) takes a target object as its first parameter, and one or more source objects as its subsequent parameters. It iterates over all the enumerable (see below), owned keys (immediately present) on the source object(s) and copies them (via = assignment only) to target. It also, helpfully, returns target, as you can see below:
+At the same time, a shallow copy is fairly understandable and has far less issues, so ES6 has now defined **Object.assign(..)** for this task. _Object.assign(..)_ takes a target object as its first parameter, and one or more source objects as its subsequent parameters. It iterates over all the enumerable (see below), owned keys (immediately present) on the source object(s) and copies them (via = assignment only) to target. It also, helpfully, returns target, as you can see below:
 ```javascript
 var newObj = Object.assign( {}, myObject );
 
