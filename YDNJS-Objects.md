@@ -205,7 +205,7 @@ Object.defineProperty( myObject, "FAVORITE_NUMBER", {
 } );
 ```
 
-### Prevent Extensions
+#### Prevent Extensions
 ```javascript
 var myObject = {
 	a: 2
@@ -216,7 +216,7 @@ Object.preventExtensions( myObject );
 myObject.b = 3;
 myObject.b; // undefined
 ```
-### Seal
+#### Seal
 **Object.seal(..)** creates a "sealed" object, which means it takes an existing object and essentially calls **Object.preventExtensions(..)** on it, but also marks all its existing properties as **configurable:false**.
 
 So, not only can you not add any more properties, but you also cannot **reconfigure or delete any existing properties (though you can still modify their values)**.
@@ -240,7 +240,7 @@ Object.defineProperty( myObject, "a", {  
 
 console.log(myObject.a); // 7
 ```
-### Freeze
+#### Freeze
 **Object.freeze(..)** creates a frozen object, which means it takes an existing object and essentially calls **Object.seal(..)** on it, but it also marks all "data accessor" properties as writable:false, so that their **values cannot be changed**.
 
 ### [[Get]]
