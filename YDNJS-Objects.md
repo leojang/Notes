@@ -37,6 +37,11 @@ strObject instanceof String;					// true
 // inspect the object sub-type
 Object.prototype.toString.call( strObject );	// [object String]
 ```
+We can inspect the internal sub-type by borrowing the base default toString() method, and you can see it reveals that **strObject is an object** that was in fact created by the _String_ constructor.
+
+The primitive value "I am a string" is not an object, it's a primitive literal and immutable value. To perform operations on it, such as checking its length, accessing its individual character contents, etc, a String object is required.
+
+Luckily, the language automatically coerces a _"string"_ primitive to a _String_ object when necessary, which means you almost never need to explicitly create the Object form. 
 
 ### Built-in Objects
 - String
