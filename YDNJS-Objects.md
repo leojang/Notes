@@ -345,4 +345,4 @@ var myObject = {
 myObject.hasOwnProperty( "a" );	// true
 myObject.hasOwnProperty( "b" );	// false
 ```
-The in operator will check to see if the property is in the object, or if it exists at any higher level of the [[Prototype]] chain object traversal (see Chapter 5). By contrast, hasOwnProperty(..) checks to see if only myObject has the property or not, and will not consult the [[Prototype]] chain. 
+The **in** operator will check to see if the property is in the object, or **if it exists at any higher level of the [[Prototype]] chain object traversal**. By contrast, hasOwnProperty(..) checks to see if only myObject has the property or not, and **will not consult the [[Prototype]] chain**. 
