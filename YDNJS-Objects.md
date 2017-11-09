@@ -84,6 +84,7 @@ newObj.d === anotherFunction;	// true
 Prior to ES5, the JavaScript language gave no direct way for your code to inspect or draw any distinction between the characteristics of properties, such as whether the property was read-only or not.
 
 But as of ES5, all properties are described in terms of a **property descriptor**.
+#### getOwnPropertyDescriptor
 ```javascript
 var myObject = {
 	a: 2
