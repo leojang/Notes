@@ -447,10 +447,15 @@ arr.map((val) => {
 
 console.log(arr); // [2, 4, 6]  
 ```
-var arr = [1, 2, 3];
 
-arr.map((val) => {  
-    return val * 2;
+### Filter
+這個按照字面上的意思來說就是過濾器，filter 不會修改值，但他會幫你決定要不要將這個值留在陣列裡面，要注意的是 filter 會回傳一個新的陣列，而不是修改原本的陣列。
+```javascript
+var arr = [1, 2, 3, 4];
+
+var newArr = arr.filter((val) => {  
+    return val > 2;
 })
 
-console.log(arr); // [2, 4, 6]  
+console.log(newArr); // [3, 4]  
+```
