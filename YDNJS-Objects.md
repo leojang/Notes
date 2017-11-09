@@ -56,7 +56,7 @@ We can inspect the internal sub-type by borrowing the base default toString() me
 
 The primitive value "I am a string" is not an object, it's a primitive literal and immutable value. To perform operations on it, such as checking its length, accessing its individual character contents, etc, a String object is required.
 
-Luckily, the language automatically coerces a _"string"_ primitive to a _String_ object when necessary, which means you almost never need to explicitly create the Object form. 
+Luckily, **the language automatically coerces a _"string"_ primitive to a _String_ object when necessary**, which means you almost never need to explicitly create the Object form. 
 
 
 ### Property vs. Method
