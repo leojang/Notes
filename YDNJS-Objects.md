@@ -266,3 +266,15 @@ var myObject = {
 
 myObject.b; // undefined
 ```
+This behavior is different from **when you reference variables by their identifier names**. If you reference a variable that cannot be resolved within the applicable lexical scope look-up, the result is not undefined as it is for object properties, but instead a **ReferenceError** is thrown.
+
+From a value perspective, there is no difference between these two references -- they both result in undefined. However, the [[Get]] operation underneath, though subtle at a glance, potentially performed a bit more "work" for the reference myObject.b than for the reference myObject.a.
+```javascript
+var myObject = {
+	a: undefined
+};
+
+myObject.a; // undefined
+
+myObject.b; // undefined
+```
