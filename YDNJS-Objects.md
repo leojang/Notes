@@ -410,3 +410,11 @@ Whereas _in_ vs. _hasOwnProperty(..)_ differ in whether they consult the [[Proto
 
 ### Iteration
 The **for..in** loop iterates over the list of enumerable **properties** on an object (including its [[Prototype]] chain). But what if you instead want to iterate over the values?
+```javascript
+var myArray = [1, 2, 3];
+
+for (var i = 0; i < myArray.length; i++) {
+	console.log( myArray[i] );
+}
+// 1 2 3
+```
