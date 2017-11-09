@@ -408,3 +408,5 @@ Object.getOwnPropertyNames( myObject ); // ["a", "b"]
 
 Whereas _in_ vs. _hasOwnProperty(..)_ differ in whether they consult the [[Prototype]] chain or not, Object.keys(..) and Object.getOwnPropertyNames(..) both inspect only the **direct object** specified.
 
+### Iteration
+The **for..in** loop iterates over the list of enumerable **properties** on an object (including its [[Prototype]] chain). But what if you instead want to iterate over the values?
