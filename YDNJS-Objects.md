@@ -167,6 +167,8 @@ Object.defineProperty( myObject, "a", {
 	enumerable: true
 } ); // TypeError
 ```
+changing configurable to false is a **one-way action, and cannot be undone!**
+
 ### Prevent Extensions
 ```javascript
 var myObject = {
