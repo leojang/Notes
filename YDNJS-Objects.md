@@ -333,3 +333,4 @@ myObject.a = 2;
 
 myObject.a; // 4
 ```
+### Existence
