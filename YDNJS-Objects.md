@@ -58,7 +58,6 @@ The primitive value "I am a string" is not an object, it's a primitive literal a
 
 Luckily, **the language automatically coerces a _"string"_ primitive to a _String_ object when necessary**, which means you almost never need to explicitly create the Object form. 
 
-
 ### Property vs. Method
 Technically, functions never "belong" to objects, so saying that a function that just happens to be accessed on an object reference is automatically a "method" seems a bit of a stretch of semantics.
 
@@ -98,7 +97,7 @@ Object.getOwnPropertyDescriptor( myObject, "a" );
 //    configurable: true
 // }
 ```
-
+#### defineProperty
 ```javascript
 var myObject = {};
 
