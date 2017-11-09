@@ -491,3 +491,30 @@ function isBiggerThan10(element, index, array) {
 [2, 5, 8, 1, 4].some(isBiggerThan10);  // false
 [12, 5, 8, 1, 4].some(isBiggerThan10); // true
 ```
+
+If you iterate on an object with a for..in loop, you're also only getting at the values **indirectly**, because it's actually iterating only over the **enumerable properties** of the object, leaving you to access the properties manually to get the values.
+
+But what if you want to iterate over the values directly instead of the array indices (or object properties)? Helpfully, ES6 adds a **for..of** loop syntax for iterating over arrays (and objects, if the object defines its own custom iterator):
+
+```javascript
+var myArray = [ 1, 2, 3 ];
+
+for (var v of myArray) {
+	console.log( v );
+}
+// 1
+// 2
+// 3
+```
+### Manually iterate the array
+```javascript
+var myArray = [ 1, 2, 3 ];
+var it = myArray[Symbol.iterator]();
+
+it.next(); // { value:1, done:false }
+it.next(); // { value:2, done:false }
+it.next(); // { value:3, done:false }
+it.next(); // { done:true }
+```
+:bulb:We get at the @@iterator internal property of an object using an ES6 Symbol: Symbol.iterator.
+:bulb:Also, despite the name's implications, @@iterator is not the iterator object itself, but a function that returns the iterator object 
