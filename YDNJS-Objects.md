@@ -240,6 +240,8 @@ Object.defineProperty( myObject, "a", {  
 
 console.log(myObject.a); // 7
 ```
+### Freeze
+**Object.freeze(..)** creates a frozen object, which means it takes an existing object and essentially calls **Object.seal(..)** on it, but it also marks all "data accessor" properties as writable:false, so that their **values cannot be changed**.
 
 ### [[Get]]
 ```javascript
