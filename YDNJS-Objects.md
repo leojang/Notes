@@ -25,23 +25,6 @@ Note that the simple primitives (string, number, boolean, null, and undefined) a
 :bulb:__It's a common mis-statement that "everything in JavaScript is an object". This is clearly not true.__
 
 function is a sub-type of object (technically, a "callable object"). Functions in JS are said to be "first class" in that they are basically just normal objects (with callable behavior semantics bolted on), and so they can be handled like any other plain object.
-```javascript
-var strPrimitive = "I am a string";
-typeof strPrimitive;						// "string"
-strPrimitive instanceof String;					// false
-
-var strObject = new String( "I am a string" );
-typeof strObject; 						// "object"
-strObject instanceof String;					// true
-
-// inspect the object sub-type
-Object.prototype.toString.call( strObject );	// [object String]
-```
-We can inspect the internal sub-type by borrowing the base default toString() method, and you can see it reveals that **strObject is an object** that was in fact created by the _String_ constructor.
-
-The primitive value "I am a string" is not an object, it's a primitive literal and immutable value. To perform operations on it, such as checking its length, accessing its individual character contents, etc, a String object is required.
-
-Luckily, the language automatically coerces a _"string"_ primitive to a _String_ object when necessary, which means you almost never need to explicitly create the Object form. 
 
 ### Built-in Objects
 - String
@@ -56,6 +39,13 @@ Luckily, the language automatically coerces a _"string"_ primitive to a _String_
 __in JS, these are actually just built-in functions, not Class like java.__ Each of these built-in functions can be used as a _constructor_ (that is, a function call with the new operator -- see Chapter 2), with the result being a _newly constructed object_ of the sub-type in question.
 
 JS automatically coerces a "string" primitive to a String object when necessary
+
+```javascriptvar strPrimitive = "I am a string";typeof strPrimitive;      // "string"strPrimitive instanceof String;     // false
+var strObject = new String( "I am a string" );typeof strObject;       // "object"strObject instanceof String;     // true
+// inspect the object sub-typeObject.prototype.toString.call( strObject ); // [object String]```We can inspect the internal sub-type by borrowing the base default toString() method, and you can see it reveals that **strObject is an object** that was in fact created by the _String_ constructor.
+The primitive value "I am a string" is not an object, it's a primitive literal and immutable value. To perform operations on it, such as checking its length, accessing its individual character contents, etc, a String object is required.
+Luckily, the language automatically coerces a _"string"_ primitive to a _String_ object when necessary, which means you almost never need to explicitly create the Object form. 
+
 
 ### Property vs. Method
 Technically, functions never "belong" to objects, so saying that a function that just happens to be accessed on an object reference is automatically a "method" seems a bit of a stretch of semantics.
