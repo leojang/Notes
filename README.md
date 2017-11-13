@@ -165,6 +165,7 @@ http://www.gegugu.com/2015/11/24/804.html
 http://www.jiuzhang.com/
 https://github.com/checkcheckzz/system-design-interview
 https://github.com/yangshun/tech-interview-handbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly
+https://medium.com/@danielgross/seven-questions-to-ask-when-interviewing-for-an-ml-job-1963ccee3a19
 
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
