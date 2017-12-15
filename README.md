@@ -166,6 +166,7 @@ http://www.jiuzhang.com/
 https://github.com/checkcheckzz/system-design-interview
 https://github.com/yangshun/tech-interview-handbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly
 https://medium.com/@danielgross/seven-questions-to-ask-when-interviewing-for-an-ml-job-1963ccee3a19
+https://www.keyvalues.com/culture-queries
 
 # Online Courses
 Coursera, Edx, Udemy, CodeSchool, TreeHouse
@@ -256,7 +257,7 @@ https://medium.com/@tifa2up/image-classification-using-deep-neural-networks-a-be
 https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
 https://mldatageek.herokuapp.com/questions/tags:amazon/
 https://distill.pub/2017/feature-visualization/
-
+https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
 
@@ -273,6 +274,7 @@ http://adripofjavascript.com/
 http://adripofjavascript.com/blog/drips/invoking-javascript-functions-with-call-and-apply.html
 https://github.com/bpesquet/thejsway/#
 https://news.ycombinator.com/item?id=14891287
+https://stateofjs.com/2017/build-tools/results/
 
 # WebAssembly
 https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/
