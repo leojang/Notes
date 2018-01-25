@@ -1,3 +1,5 @@
+https://docs.microsoft.com/en-us/vsts/build-release/
+
 # Current Reading
 https://unreasonablydangerousonionrings.com/2017/10/31/19-reasons-this-survival-story-smells-fishy/
 http://markdown-here.com/index.html
