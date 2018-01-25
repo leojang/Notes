@@ -1,5 +1,8 @@
 https://docs.microsoft.com/en-us/vsts/build-release/
 https://docs.microsoft.com/en-us/vsts/index#pivot=start
+https://skychang.github.io/2015/11/30/VSTS-Build_Setup/
+https://technovert.com/automated-build-deployment-solution-tfs/
+http://www.ganshani.com/blog/2013/11/team-foundation-server-build-automation/
 
 # Current Reading
 https://unreasonablydangerousonionrings.com/2017/10/31/19-reasons-this-survival-story-smells-fishy/
