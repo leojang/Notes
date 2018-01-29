@@ -1,3 +1,7 @@
+# Data Scientist
+https://hahow.in/courses/597df7e2acc137070007013c/main
+https://plushunter.github.io/
+
 https://docs.microsoft.com/en-us/vsts/build-release/
 https://docs.microsoft.com/en-us/vsts/index#pivot=start
 https://skychang.github.io/2015/11/30/VSTS-Build_Setup/
