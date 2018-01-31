@@ -1,3 +1,5 @@
+http://rich01.com/blog-page_30/
+
 # Data Scientist
 https://hahow.in/courses/597df7e2acc137070007013c/main
 https://plushunter.github.io/
