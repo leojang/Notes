@@ -1,4 +1,8 @@
 http://rich01.com/blog-page_30/
+http://www.bandgap.cs.rice.edu/classes/comp410/resources/Using%20Azure/Using%20Entity%20Framework%20with%20SQL%20Server%20on%20Azure.aspx
+https://msdn.microsoft.com/zh-tw/library/dn448365(v=vs.118).aspx
+https://dotblogs.com.tw/mis2000lab/2012/11/01/your_first_web_api_20121101_1
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
 
 # Data Scientist
 https://hahow.in/courses/597df7e2acc137070007013c/main
