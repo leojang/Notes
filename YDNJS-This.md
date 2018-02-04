@@ -40,7 +40,7 @@ setTimeout( function(){
 	// refer to itself
 }, 10 );
 ```
->In the first function, called a "named function", foo is a reference that can be used to refer to the function from inside itself.
+>In the first function, called a "named function", **foo is a reference that can be used to refer to the function from inside itself**.
 
 >So another solution to our running example would have been to use the foo identifier as a function object reference in each place, and not use this at all, which works:
 ```
