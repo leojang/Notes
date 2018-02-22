@@ -1,2 +1,11 @@
 http://www.cmoney.tw/notes/note-detail.aspx?nid=15877
 https://kknews.cc/zh-tw/finance/qkjgbr.html
+https://ppt.cc/9txf
+http://rich01.com/blog-page_30/
+http://rich01.com/22-2/
+https://www.cmoney.tw/notes/note-detail.aspx?nid=87706
+http://camperliu.pixnet.net/blog/post/345150454-[老牛說書]2018年投資理財推薦書單(持續更新)
+http://www.jihsun.com.tw/jsmarket/stock-books/books.html
+https://ramihaha.tw/money-financialfreedom/
+https://redhouse.statementdog.com/archives/60
+http://greenhornfinancefootnote.blogspot.tw/2007/09/my-suggested-booklist-for-chinese.html
