@@ -58,3 +58,13 @@ Take a few moments to compare your goals with the objectives of the company and 
 * Pick a minor example. 
 * Turn it into a positive. 
 * Don’t blame others
+
+### How to Answer Job Interview Questions About Challenges
+* Recall a challenge that was significant, but one that you consider a success.
+* Don’t just say what you did — explain how you did it
+* Emphasize the outcome and what you learned from it. 
+
+### How to Answer Interview Questions About Why You Left Your Job
+* This position seemed like an excellent match for my skills and experience, which I am not able to fully utilize in my present job.
+* To be honest, I wasn't considering a move, but I saw this job posting and was intrigued by the position and the company. It sounds like an exciting opportunity and an ideal match with my qualifications.
+* I am interested in a new challenge and an opportunity to use my technical skills and experience in a different capacity than I have in the past.
