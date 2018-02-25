@@ -68,3 +68,14 @@ Take a few moments to compare your goals with the objectives of the company and 
 * This position seemed like an excellent match for my skills and experience, which I am not able to fully utilize in my present job.
 * To be honest, I wasn't considering a move, but I saw this job posting and was intrigued by the position and the company. It sounds like an exciting opportunity and an ideal match with my qualifications.
 * I am interested in a new challenge and an opportunity to use my technical skills and experience in a different capacity than I have in the past.
+
+### How to Answer What Is Your Greatest Weakness
+* Discuss Non-Essential Skills
+* Mention Skills You Have Improved
+
+### Interview Questions About Achieving Your Goals	
+* Details your accomplishments to date to show that you have already been able to effectively achieve goals.
+* Delineate the ways in which your goals align with the job at hand.
+* Describe any tangible achievements on the horizon. 
+* Convince the interviewer that this position is key to your plan for success.
+* Describe your personal qualities that will enable you to achieve your goals.
