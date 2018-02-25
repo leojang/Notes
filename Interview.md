@@ -28,3 +28,13 @@ Take a few moments to compare your goals with the objectives of the company and 
 * Emphasize what you’ve accomplished in the past, and connect it to the future. Provide concrete examples from past jobs to show how you have contributed to other companies. Past examples show employers the kind of work you will likely do for them.Describe specific examples of how effective you have been in your other positions, changes you have implemented, and goals you have achieved.             * Talk about the depth and breadth of related experience that you have. However, you will want to conclude by explaining that you will bring these kinds of accomplishments to this current company.
 * Use data. Interviewers ask this question because they want to know how you will add value to the company. To show this, you might want to use numbers to show how you have added value in the past. For example, did you increase a company’s sales record by a certain percentage? Did you raise a certain amount of funds for an organization? Numbers offer a concrete example of how you have contributed to a company, and how you will likely contribute in the future.
 * Connect your answer to the employer’s goals. Whatever examples you focus on, make sure they are related to the particular job and/or company. You will want to let the interviewer know that you have the skills necessary to do the job they are hiring for, the ability to effectively meet challenges, and the flexibility and diplomacy to work well with other employees and with management. If there are any specific qualities or skills that are particularly important for this job or company, focus on these.
+
+### What were your responsibilities at your current (or last) position?
+
+* The best way to respond to this question is to describe your responsibilities in detail and to connect them to the job you are interviewing for.
+
+* Focus most on your responsibilities that are directly related to the new job's requirements. 
+
+* Be descriptive and engaging in your summary of responsibilities
+
+* Mention any specific instances where you benefited the company, solved a problem or had a major accomplishment.
