@@ -38,3 +38,11 @@ Take a few moments to compare your goals with the objectives of the company and 
 * Be descriptive and engaging in your summary of responsibilities
 
 * Mention any specific instances where you benefited the company, solved a problem or had a major accomplishment.
+
+### Why Should We Hire You?
+
+* “I think that my experience in the _____ industry and my ability to work autonomously make me a good match for this position.”
+* “Your company provides many services that I have had experience with, in a variety of capacities. [Offer a few specific examples.] I believe that my familiarity with the industry would make me a good fit for this position.”
+* “You have explained that you are looking for a sales executive who is able to effectively manage over a dozen employees. In my 15 years of experience as a sales manager, I have developed strong motivational and team-building skills. I was twice awarded manager-of-the-year for my innovative strategies for motivating employees to meet and surpass quarterly deadlines. If hired, I will bring my leadership abilities and strategies for achieving profit gains to this position.”
+* “I have top-notch administrative skills and I believe I'd be an asset for the office. My skill set seems to be a perfect match for what you're looking for. In addition, I enjoy working with people, and would welcome the opportunity to be a part of your team.”
+* “You describe in the job listing that you are looking for a special education assistant teacher with an abundance of patience and compassion. Having served as a tutor at a summer school for dyslexic children for the past two years, I have developed my ability to be extremely patient while still achieving academic gains with my students. My experience teaching phonics to children ages 6 to 18 has taught me strategies for working with children of all ages and abilities, always with a smile. My previous employer often placed me with the students with the most severe learning disabilities because of my history of success. I will bring not only experience, but patience and creative problem-solving, to this position.”
