@@ -11,4 +11,7 @@
 
 ### How to Answer Interview Questions About Leadership
 
-    (S) Situation: Explain the background of the situation. What was your job?    (T) Task. What was the particular task you had to perform? If there was a particular problem you were addressing, explain what it was.    (A) Action: What action did you take (or what skills did you use) to complete the task, or solve the problem?    (R) Result: What was the outcome of the situation? Did you complete the task well?
+    (S) Situation: Explain the background of the situation. What was your job?   
+    (T) Task. What was the particular task you had to perform? If there was a particular problem you were addressing, explain what it was.    
+    (A) Action: What action did you take (or what skills did you use) to complete the task, or solve the problem?    
+    (R) Result: What was the outcome of the situation? Did you complete the task well?
