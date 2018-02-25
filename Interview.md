@@ -79,3 +79,54 @@ Take a few moments to compare your goals with the objectives of the company and 
 * Describe any tangible achievements on the horizon. 
 * Convince the interviewer that this position is key to your plan for success.
 * Describe your personal qualities that will enable you to achieve your goals.
+
+### Interview Questions About Your Goals for the Future	
+
+My long-term goals involve growing with a company where I can continue to learn, take on additional responsibilities, and contribute as much value as I can. I love that your company emphasizes professional development opportunities. I intend to take advantage of all of these.
+
+### Do You Prefer to Work Independently or On a Team?
+
+“I am equally comfortable working as a member of a team and independently. In researching the LMN company, your mission statement, and the job description, I could see similarities to previous positions that I have held where some assignments required a great deal of independent work and research, while others were better completed as a group.
+
+I continued to grow as a team member while on my sorority's debate team and through my advanced marketing class where we had numerous team assignments. Working on a team energizes me in a positive way, although I’m also confident in my ability to work alone when I need to.”
+
+“I am comfortable working alone and in a group depending on the situation. If the task is easy enough to tackle on my own without requiring collective brainstorming, I am happy to work on my own. However, if the assignment is a high priority one or is too much for one person to handle, I welcome working with a team to tackle the project together. In my experience, most projects require a combination of independent work and brainstorming depending on their various elements.”
+
+### How to Answer Interview Questions About Your Greatest Strength
+
+How should you answer questions about your strengths? The best way to respond is to describe the skills and experience that you have which directly correlates with the job you are applying for. Be prepared to answer by making a list of the qualifications mentioned in the job posting. 
+
+Then, make a list of your skills that match those listed. This list can include education or training, soft skills, hard skills, or past work experiences. Narrow your list of skills down to 3 - 5 particularly strong skills.
+
+Next to each skill, note an example of how you have used that strength in the past.
+
+### How Would You Describe Yourself?
+
+When you respond, keep in mind the type of position you are interviewing for, the company culture, and the work environment. However, it's not a good idea to simply regurgitate a list of reasons why you are right for the position.
+
+Instead, answer with a few positive adjectives or phrases that describe your personal characteristics or your attitude (sometimes employers ask a similar question, “What three adjectives would you use to describe yourself?”). Make sure to focus on the qualities that make you an ideal match for the job and the company.
+
+You typically do not need to follow up your response with specific examples of times you have displayed each characteristic – often, an employer wants a relatively concise answer to this question. However, if you give your answer and the interviewer looks like her or she is waiting for more, you can then follow up with examples from past work experiences. The interviewer might even ask you outright to expand your answer with examples.Finally, while you should shape your answer to fit the particular job, authenticity is still important. Your response should be positive but genuine.
+
+
+### How Do You Handle Stress?
+
+Pressure is very important to me. Good pressure, such as having a lot of assignments to work on, or an upcoming deadline, helps me to stay motivated and productive. Of course, there are times when too much pressure can lead to stress; however, I am very skilled at balancing multiple projects and meeting deadlines, which prevents me from feeling stressed often. For example, I once had three large projects due in the same week, which was a lot of pressure. However, because I created a schedule that detailed how I would break down each project into small assignments, I completed all three projects ahead of time and avoided unnecessary stress.
+
+### How to Answer the Tell Me About Yourself Interview Question
+
+### What were your responsibilities?
+
+### What did you like or dislike about your previous job? 
+
+### Describe a difficult work situation or project and how you overcame it.
+
+### Why do you want this job?
+
+### Why should we hire you?
+
+### How to Respond to 'Do You Have Any Questions for Me?'	
+
+* Can you share more about the day-to-day responsibilities of this position? What's a typical day like?
+* Why is this position open — is this a new role? If not, why did the person who held this role leave it?
+* If I were hired for this role, what would you want me to achieve in my first months in the position?
