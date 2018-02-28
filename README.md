@@ -3,6 +3,7 @@ http://www.bandgap.cs.rice.edu/classes/comp410/resources/Using%20Azure/Using%20E
 https://msdn.microsoft.com/zh-tw/library/dn448365(v=vs.118).aspx
 https://dotblogs.com.tw/mis2000lab/2012/11/01/your_first_web_api_20121101_1
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
+https://www.npr.org/sections/health-shots/2018/02/26/587735283/lost-art-of-bending-over-how-other-cultures-spare-their-spines
 
 # Data Scientist
 https://hahow.in/courses/597df7e2acc137070007013c/main
@@ -277,6 +278,8 @@ https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164
 https://mldatageek.herokuapp.com/questions/tags:amazon/
 https://distill.pub/2017/feature-visualization/
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90
+https://arxiv.org/abs/1709.02840
+
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
 
@@ -480,6 +483,7 @@ http://animista.net/
 https://shoelace.style/
 https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
 https://aerolab.co/blog/flexbox-grids/
+https://atomiks.github.io/30-seconds-of-css/
 
 # EC2
 https://www.expeditedssl.com/aws-in-plain-english
