@@ -1,3 +1,4 @@
+https://www.tsunagujapan.com/zh-hant/50-magnificent-views-in-japan-that-you-shouldn-t-miss/2/
 http://rich01.com/blog-page_30/
 http://www.bandgap.cs.rice.edu/classes/comp410/resources/Using%20Azure/Using%20Entity%20Framework%20with%20SQL%20Server%20on%20Azure.aspx
 https://msdn.microsoft.com/zh-tw/library/dn448365(v=vs.118).aspx
