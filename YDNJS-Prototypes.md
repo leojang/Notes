@@ -1,1 +1,1 @@
-
+it's actually more appropriate to think of the "class" belonging to the constructor (the Foo.prototype... type references). Since in JS the relationship between child and parent exists only between the two .prototype objects of the respective constructors, the constructors themselves are not directly related, and thus there's no simple way to relatively reference one from the other
