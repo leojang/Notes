@@ -1,3 +1,6 @@
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/
+https://www.exceptionnotfound.net/mapping-datatables-and-datarows-to-objects-in-csharp-and-net-using-reflection/
+
 http://www.c-sharpcorner.com/article/creating-web-api-with-repository-pattern-and-dependency-injection/
 http://www.c-sharpcorner.com/article/tips-for-writing-clean-and-best-code-in-c-sharp/
 
