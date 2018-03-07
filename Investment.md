@@ -9,3 +9,10 @@ http://www.jihsun.com.tw/jsmarket/stock-books/books.html
 https://ramihaha.tw/money-financialfreedom/
 https://redhouse.statementdog.com/archives/60
 http://greenhornfinancefootnote.blogspot.tw/2007/09/my-suggested-booklist-for-chinese.html
+
+“Dear Ben,
+
+I know I can contribute well to your team, and I welcome the chance to prove it to you. As requested, my expected salary is ($_______) excluding benefits and incentives. That’s based on the job description and the average annual salary for this position. My requirements are negotiable, depending on several factors, such as improved career advancement and training opportunities.”
+
+
+“Dear (Mr/Ms _____),Much of my career has been in (industry), and the skills I’ve learned from this line of work directly apply to the skills in (target job). I know I can contribute well to your team, and I welcome the chance to prove it to you. As requested, my expected salary is ($_______) excluding benefits and incentives. That’s based on the job description and the average annual salary for this position. My requirements are negotiable, depending on several factors, such as improved career advancement and training opportunities.”
