@@ -12,6 +12,12 @@ https://plushunter.github.io/
 GAM
 XGBoost
 
+# Operating System
+http://www.scs.stanford.edu/17sp-cs240/
+http://www.cs.columbia.edu/~nieh/teaching/w4118/
+http://web.stanford.edu/~ouster/cgi-bin/cs140-winter16/lecture.php?topic=intro
+http://rust-class.org/index.html
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/
 
 https://docs.microsoft.com/en-us/vsts/build-release/
 https://docs.microsoft.com/en-us/vsts/index#pivot=start
