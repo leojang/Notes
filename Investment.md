@@ -9,6 +9,7 @@ http://www.jihsun.com.tw/jsmarket/stock-books/books.html
 https://ramihaha.tw/money-financialfreedom/
 https://redhouse.statementdog.com/archives/60
 http://greenhornfinancefootnote.blogspot.tw/2007/09/my-suggested-booklist-for-chinese.html
+and I’m confident that I can bring a lot of value.
 
 Dear Ben
 
@@ -18,7 +19,7 @@ With the skill sets I have, this job is a perfect fit for me. My salary requirem
 
 It would be more comfortable if we can settle on a monthly salary of $95000 guaranteed for 14 months, plus 1 month performance bouns. That's roughly $45,400 USD base salary anually and $3200 USD performance bonus. The initial offer contains 3 months of performance bonus, it would be great if we can have one more month of base salary and make the performance bouns to just 1 month.
 
-I can certainly see a future for myself at the company, and I’m confident that I can bring a lot of value. I know that we can come to a mutual agreement on an acceptable salary.
+I can certainly see a future for myself at the company, I hope that we can come to a mutual agreement on an acceptable salary.
 
 Thank you for your time,
 
