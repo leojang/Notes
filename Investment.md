@@ -15,7 +15,7 @@ Dear Ben
 
 Thank you for offering me the job of software engineer at Pneuma Software. I'm very excited about this position and know that I'd be the right fit for your team. I'm also excited about your offer, knowing that I'll bring a lot of value to the table based on my experience.
 
-With the skill sets I have, this job is a perfect fit for me. My salary requirement is in the $49,000 - $53,000 range, I believe an offer of $50,000 USD will be more in line with my qualifications and still makes an win-win deal for both of us. Compared to average salary of software engineers in the States, it's about 50% less than average. 
+My expected salary is in the $49,000 - $53,000 range, with the skill sets I have, this job is a perfect fit for me, I believe an offer of $50,000 USD will be more in line with my qualifications and still makes an win-win deal for both of us. Compared to average salary of software engineers in the States, it's about 50% less than average. 
 
 It would be more comfortable if we can settle on a monthly salary of $95000 guaranteed for 14 months, plus 1 month performance bouns. That's roughly $45,400 USD base salary anually and $3200 USD performance bonus. The initial offer contains 3 months of performance bonus, it would be great if we can have one more month of base salary and make the performance bouns to just 1 month.
 
