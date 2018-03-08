@@ -17,11 +17,9 @@ Thank you for offering me the job of software engineer at Pneuma Software. I'm v
 
 After considerable thought, I am concerned about the package you offered. It is lower than I anticipated. My expected salary is in the $49,000 - $53,000 USD range, with the skill sets I have, this job is a perfect fit for me, I believe an offer of my expected salary will be more in line with my qualifications and still makes an win-win deal for both of us, knowing that I'll bring a lot of value to the table based on my experience. Also like you said before, compared to average salary of software engineers in the States, it's 50% less than the average. 
 
-It would be more comfortable if we can settle on a monthly pay of $91000 - $93000 NTD for 14 months as base salary, total would be roughly $45,000 USD. The initial offer contains 3 months of performance bonus, we can make the performance bouns to remain just 1 month. The total package would be less than I was hoping for, but hope that we can come to a mutual agreement on an acceptable salary.
-21
+It would be more comfortable if we can settle on a monthly pay of $91000 - $93000 NTD for 14 months as base salary, total would be roughly $45,000 USD. The initial offer contains 3 months of performance bonus, we can make the performance bouns to remain just 1 month. This package would be less than I was looking for, but hope that we can come to a mutual agreement on an acceptable salary.
 
-I can certainly see a future for myself at the company, 
-Thank you for your time,
+Thank you for your time.
 
 Best,
 Leo
