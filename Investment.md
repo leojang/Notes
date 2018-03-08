@@ -10,9 +10,27 @@ https://ramihaha.tw/money-financialfreedom/
 https://redhouse.statementdog.com/archives/60
 http://greenhornfinancefootnote.blogspot.tw/2007/09/my-suggested-booklist-for-chinese.html
 
-“Dear Ben,
+Dear Ben
 
-I know I can contribute well to your team, and I welcome the chance to prove it to you. As requested, my expected salary is ($_______) excluding benefits and incentives. That’s based on the job description and the average annual salary for this position. My requirements are negotiable, depending on several factors, such as improved career advancement and training opportunities.”
+Thank you for offering me the job of software engineer at Pneuma Software. I'm very excited about this position and know that I'd be the right fit for your team. I'm also excited about your offer, knowing that I'll bring a lot of value to the table based on my experience.
 
+With the skill sets I have, this job is a perfect fit for me. My salary requirement is in the $49,000 - $53,000 range, I believe an offer of $50,000 USD will be more in line with my qualifications and still makes an win-win deal for both of us. Compared to average salary of software engineers in the States, it's about 50% less than average. 
 
-“Dear (Mr/Ms _____),Much of my career has been in (industry), and the skills I’ve learned from this line of work directly apply to the skills in (target job). I know I can contribute well to your team, and I welcome the chance to prove it to you. As requested, my expected salary is ($_______) excluding benefits and incentives. That’s based on the job description and the average annual salary for this position. My requirements are negotiable, depending on several factors, such as improved career advancement and training opportunities.”
+It would be more comfortable if we can settle on a monthly salary of $95000 guaranteed for 14 months, plus 1 month performance bouns. That's roughly $45,400 USD base salary anually and $3200 USD performance bonus. The initial offer contains 3 months of performance bonus, it would be great if we can have one more month of base salary and leave the performance bouns like others.
+
+I can certainly see a future for myself at the company, and I’m confident that I can bring a lot of value. I know that we can come to a mutual agreement on an acceptable salary.
+
+Thank you for your time,
+
+Best,
+Leo
+
+https://www.ivyexec.com/executive-insights/2016/win-salary-negotation/
+https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#get-the-baseline-template
+https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/
+https://business.tutsplus.com/tutorials/how-to-negotiate-your-salary-via-email--cms-27031
+https://www.salary.com/get-salary-increase-with-1-email/
+https://www.lewis-lin.com/blog/2015/5/6/31-killer-salary-negotiation-scripts
+https://cheekyscientist.com/negotiate-a-higher-starting-salary-with-these-5-email-templates/
+https://www.writeexpress.com/joboff03.html
+https://money.usnews.com/money/blogs/outside-voices-careers/articles/2017-07-10/the-exact-words-to-use-when-negotiating-salary
