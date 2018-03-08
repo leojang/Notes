@@ -19,7 +19,7 @@ After considerable thought, I am concerned about the package you offered. It is 
 
 It would be more comfortable if we can settle on a monthly pay of $91000 - $93000 NTD for 14 months as base salary, total would be roughly $45,000 USD. The initial offer contains 3 months of performance bonus, we can make the performance bouns to remain just 1 month. This package would be less than I was looking for, but hope that we can come to a mutual agreement on an acceptable salary.
 
-Thank you for your time.
+Thank you for your time. 
 
 Best,
 Leo
