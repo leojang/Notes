@@ -19,7 +19,7 @@ My expected salary is in the $49,000 - $53,000 USD range, with the skill sets I 
 
 It would be more comfortable if we can settle on a monthly salary of $92000 - $95000 NTD for 14 months as base salary, total would be roughly $45,000 USD. The initial offer contains 3 months of performance bonus, we can make the performance bouns to just 1 month.
 
-I can certainly see a future for myself at the company, I hope that we can come to a mutual agreement on an acceptable salary.
+I can certainly see a future for myself at the company, I hope that we can come to a mutual agreement on an acceptable salary. 
 
 Thank you for your time,
 
