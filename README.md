@@ -1,3 +1,4 @@
+https://www.inqdo.com/aws-explained-the-basics/
 http://blog.querystorm.com/index.php/2018/04/04/whynow/
 https://news.ycombinator.com/item?id=16786453
 https://www.nytimes.com/2017/12/29/nyregion/want-to-be-happy-think-like-an-old-person.html
