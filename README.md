@@ -1,5 +1,5 @@
 https://tw.saowen.com/a/f5ac1462047a53a2cbb300270306feed5acaa92b7cd4181992c11dd5251ded51
-
+https://greatergood.berkeley.edu/images/application_uploads/KILLINGSWORTH-WanderingMind.pdf
 https://www.tsunagujapan.com/zh-hant/50-magnificent-views-in-japan-that-you-shouldn-t-miss/2/
 http://rich01.com/blog-page_30/
 http://www.bandgap.cs.rice.edu/classes/comp410/resources/Using%20Azure/Using%20Entity%20Framework%20with%20SQL%20Server%20on%20Azure.aspx
@@ -91,6 +91,7 @@ https://keybase.io/
 https://www.youtube.com/watch?v=Ilg3gGewQ5U
 https://www.neustadt.fr/essays/against-a-user-hostile-web/
 http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md
 
 # Has some good resources on interview prep including on System Design and Machine Learning.Some of the resources for System Design:
 http://blog.gainlo.cohttp://horicky.blogspot.comhttps://www.hiredintech.com/classrooms/system-design/lesson/52http://www.lecloud.net/tagged/scalabilityhttp://tutorials.jenkov.com/software-architecture/index.htmlhttp://highscalability.com/
@@ -185,6 +186,7 @@ https://news.ycombinator.com/item?id=14755023
 https://newhumanist.org.uk/articles/5208/what-makes-maths-beautiful
 http://iquilezles.org/www/index.htm
 https://tomassetti.me/guide-parsing-algorithms-terminology/
+http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=
 
 # Interview
 http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/
@@ -291,6 +293,7 @@ https://mldatageek.herokuapp.com/questions/tags:amazon/
 https://distill.pub/2017/feature-visualization/
 https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90
 https://arxiv.org/abs/1709.02840
+http://amid.fish/reproducing-deep-rl
 
 # Java
 http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator
