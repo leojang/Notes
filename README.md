@@ -1,3 +1,4 @@
+https://flaviocopes.com/chrome-devtools-tips/
 https://tw.saowen.com/a/f5ac1462047a53a2cbb300270306feed5acaa92b7cd4181992c11dd5251ded51
 https://greatergood.berkeley.edu/images/application_uploads/KILLINGSWORTH-WanderingMind.pdf
 https://www.tsunagujapan.com/zh-hant/50-magnificent-views-in-japan-that-you-shouldn-t-miss/2/
