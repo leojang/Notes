@@ -12,6 +12,7 @@ https://msdn.microsoft.com/zh-tw/library/dn448365(v=vs.118).aspx
 https://dotblogs.com.tw/mis2000lab/2012/11/01/your_first_web_api_20121101_1
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
 https://www.npr.org/sections/health-shots/2018/02/26/587735283/lost-art-of-bending-over-how-other-cultures-spare-their-spines
+https://krebsonsecurity.com/2018/04/dont-give-away-historic-details-about-yourself/
 
 # Data Scientist
 https://hahow.in/courses/597df7e2acc137070007013c/main
@@ -179,6 +180,7 @@ https://blog.poki.com/front-end-walkthrough-building-a-single-page-application-f
 rom-scratch-d47c35fdc830
 https://github.com/toddmotto/public-apis
 http://markojs.com/
+https://udilia.com/courses/learn-react-by-building-a-web-app
 
 # Agile
 https://www.visualstudio.com/learn/what-is-agile/
@@ -367,6 +369,7 @@ http://blog.miniasp.com/post/2016/07/26/Introduction-to-Angular-2.aspx
 http://www.economist.com/blogs/economist-explains
 
 # Ideas
+https://blog.samaltman.com/productivity
 http://wgross.net/essays/give-away-your-code-but-never-your-time
 https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=de7f932e3a1d494f9c9d9a67fb0de646
 https://www.theuncomfortable.com/
