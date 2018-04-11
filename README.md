@@ -18,6 +18,7 @@ https://hahow.in/courses/597df7e2acc137070007013c/main
 https://plushunter.github.io/
 GAM
 XGBoost
+https://eng.uber.com/differentiable-plasticity/
 
 # Operating System
 http://www.scs.stanford.edu/17sp-cs240/
