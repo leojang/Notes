@@ -268,6 +268,7 @@ http://www.solipsys.co.uk/new/ThinkingAboutRecursion.html?HN_20170308
 https://www.quora.com/Which-is-the-best-online-course-to-learn-data-structures
 https://www.quora.com/How-can-I-learn-data-structures-effectively
 http://courses.cs.vt.edu/~cs3114/Fall09/wmcquain/Notes/
+https://cses.fi/book.pdf
 
 # Machine Learning
 https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-outside-academia
