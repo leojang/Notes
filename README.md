@@ -272,6 +272,7 @@ http://courses.cs.vt.edu/~cs3114/Fall09/wmcquain/Notes/
 https://cses.fi/book.pdf
 
 # Machine Learning
+https://lobe.ai/
 https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-outside-academia
 http://deeplearning.stanford.edu/tutorial/
 https://github.com/terryum/awesome-deep-learning-papers
