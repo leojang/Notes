@@ -1,0 +1,9 @@
+
+Upload
+
+curl -T D:\FileToUpload.txt -u username:password ftps://10.13.114.136/root/bak/up/FileToUpload.txt -k -o D:/FTPDownloads/FileToUpload.txt
+
+
+Download
+
+curl -u username:password ftps://10.13.114.136/root/bak/up/FileToDownload.txt -k -o D:/FTPDownloads/FileToDownload.txt
