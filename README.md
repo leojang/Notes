@@ -18,6 +18,8 @@ https://www.npr.org/sections/health-shots/2018/02/26/587735283/lost-art-of-bendi
 https://krebsonsecurity.com/2018/04/dont-give-away-historic-details-about-yourself/
 
 # Ideas
+http://fullbit.ca/learning-web-development-stand-out/
+https://snr.stanford.edu/salsify/
 https://fivebooks.com/best-books/programming-computer-science-ana-bell/
 
 # Data Scientist
