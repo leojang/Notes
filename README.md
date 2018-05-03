@@ -15,6 +15,9 @@ https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-as
 https://www.npr.org/sections/health-shots/2018/02/26/587735283/lost-art-of-bending-over-how-other-cultures-spare-their-spines
 https://krebsonsecurity.com/2018/04/dont-give-away-historic-details-about-yourself/
 
+# Ideas
+https://fivebooks.com/best-books/programming-computer-science-ana-bell/
+
 # Data Scientist
 https://hahow.in/courses/597df7e2acc137070007013c/main
 https://plushunter.github.io/
