@@ -1,3 +1,8 @@
+以 var a = 2 而言
+Compiler 做兩件事情
+
+第一件事 : 從 Scope 取得已經宣告的變數 a。若是 a 不存在，則請 Scope 建立變數 a。
+第二件事 : Compiler 產生
 
 >two distinct actions are taken for a variable assignment: First, Compiler declares a variable (if not previously declared in the current scope), and second, when executing, Engine looks up the variable in Scope and assigns to it, if found
 
