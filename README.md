@@ -1,3 +1,4 @@
+http://jazzlion.github.io/2016/06/18/Javascript%E7%9A%84%E9%9D%9E%E5%90%8C%E6%AD%A5%E4%B9%8B%E6%97%85-Part-I/
 https://www.prestigetime.com/page.php?accuracy
 https://en.wikipedia.org/wiki/100_prisoners_problem
 https://tallyfy.com/uml-diagram/
