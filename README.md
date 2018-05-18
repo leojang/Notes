@@ -1,3 +1,4 @@
+http://nymag.com/selectall/2018/05/i-dont-know-how-to-waste-time-on-the-internet-anymore.html
 https://google.github.io/styleguide/
 https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/
 https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
