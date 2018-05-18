@@ -1,3 +1,4 @@
+https://www.ostechnix.com/pacvim-a-cli-game-to-learn-vim-commands/
 https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
 http://epsilontheory.com/too-clever-by-half/
 http://timharford.com/2018/05/statistics-fast-and-slow/
