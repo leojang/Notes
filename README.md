@@ -1,3 +1,4 @@
+https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
 http://epsilontheory.com/too-clever-by-half/
 http://timharford.com/2018/05/statistics-fast-and-slow/
 https://blog.ghost.org/5/
