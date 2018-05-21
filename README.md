@@ -1,3 +1,4 @@
+https://www.gatesnotes.com/Books/Measure-What-Matters?WT.mc_id=20180516172000_MeasureWhatMatters_BG-LI&WT.tsrc=BGLI&linkId=51788990
 https://whiteboardfree.com/job_posts/37
 https://meteuphoric.com/2017/01/04/why-read-old-philosophy/
 http://nymag.com/selectall/2018/05/i-dont-know-how-to-waste-time-on-the-internet-anymore.html
