@@ -293,6 +293,7 @@ http://courses.cs.vt.edu/~cs3114/Fall09/wmcquain/Notes/
 https://cses.fi/book.pdf
 
 # Machine Learning
+https://xaviergeerinck.com/markov-property-chain-reward-decision
 https://yle.fi/uutiset/osasto/news/finland_offers_free_online_artificial_intelligence_course_to_anyone_anywhere/10206283
 https://lobe.ai/
 https://www.quora.com/What-are-the-best-ways-to-learn-advanced-Machine-Learning-outside-academia
