@@ -261,6 +261,7 @@ http://jmcglone.com/guides/github-pages/
 http://blog.teamtreehouse.com/using-github-pages-to-host-your-website
 
 # Algorithm
+http://blog.refdash.com/dynamic-programming-tutorial-example/
 https://queue.acm.org/detail.cfm?id=3220266
 https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms
 https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-about-algorithms                                       Algorithm Design" by Kleinberg and Tardos                                                                                              
