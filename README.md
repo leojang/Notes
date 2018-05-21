@@ -299,6 +299,7 @@ http://courses.cs.vt.edu/~cs3114/Fall09/wmcquain/Notes/
 https://cses.fi/book.pdf
 
 # Machine Learning
+http://www.moderndescartes.com/essays/deep_dive_mcts/
 https://developers.google.com/machine-learning/rules-of-ml/
 https://xaviergeerinck.com/markov-property-chain-reward-decision
 https://yle.fi/uutiset/osasto/news/finland_offers_free_online_artificial_intelligence_course_to_anyone_anywhere/10206283
