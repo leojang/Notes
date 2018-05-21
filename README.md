@@ -214,6 +214,7 @@ https://www.visualstudio.com/agile/
 https://www.visualstudio.com/en-us/docs/connect/work-team-explorer
 
 # Math
+http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
 http://www.nwaonline.com/news/2017/jul/03/slaying-the-math-monster-20170703/
 https://www.quantamagazine.org/pentagon-tiling-proof-solves-century-old-math-problem-20170711/
