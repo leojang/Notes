@@ -509,6 +509,7 @@ https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words
 https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/
 
 # SQL
+https://www.sqlshack.com/poor-database-indexing-sql-query-performance-killer-recommendations/
 https://www.brentozar.com/archive/2013/02/7-things-developers-should-know-about-sql-server/
 
 # HTML
