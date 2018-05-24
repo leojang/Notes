@@ -1,3 +1,4 @@
+https://basicbands.com/small-brand-spotlight-clover-straps/
 https://www.indiehackers.com/round-table/how-to-come-up-with-profitable-online-business-ideas
 https://wikipedia.fivefilters.org/
 https://medium.com/s/story/6-life-lessons-from-my-math-degree-that-have-nothing- to-do-with-math-d38aba90edfe
