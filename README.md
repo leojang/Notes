@@ -1,3 +1,5 @@
+http://wdxtub.com/interview/14520609088903.html
+http://weichiu.com/2015/07/13/phd%E9%9D%A2%E8%A9%A6software-engineer%E5%BF%83%E5%BE%97/
 https://www.globalwatchband.com/watch-straps/mens-watch-straps/waterproof.html
 https://basicbands.com/small-brand-spotlight-clover-straps/
 https://www.indiehackers.com/round-table/how-to-come-up-with-profitable-online-business-ideas
