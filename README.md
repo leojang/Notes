@@ -1,3 +1,8 @@
+# Current Trending Repos
+
+https://github.com/search?q=stars%3A%3E0&s=stars&type=Repositories
+https://github.com/trending
+
 # Apiacreations
 https://jestjs.io/
 https://playbook.samaltman.com/
