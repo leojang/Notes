@@ -1,4 +1,6 @@
 # Apiacreations
+https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/
+https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
 http://wdxtub.com/interview/14520609088903.html
 http://weichiu.com/2015/07/13/phd%E9%9D%A2%E8%A9%A6software-engineer%E5%BF%83%E5%BE%97/
 https://www.globalwatchband.com/watch-straps/mens-watch-straps/waterproof.html
