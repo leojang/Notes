@@ -1,4 +1,4 @@
-Apiacreations
+# Apiacreations
 http://wdxtub.com/interview/14520609088903.html
 http://weichiu.com/2015/07/13/phd%E9%9D%A2%E8%A9%A6software-engineer%E5%BF%83%E5%BE%97/
 https://www.globalwatchband.com/watch-straps/mens-watch-straps/waterproof.html
@@ -370,6 +370,7 @@ http://blog.openbloc.fr/webassembly-first-steps/
 https://dotblogs.com.tw/hatelove/2016/03/28/compare-object-equality-with-expected-objects
 
 # Self Learning
+https://github.com/charlax/professional-programming
 https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/
 http://web.stonehill.edu/compsci/History_Math/math-read.htm
 https://news.ycombinator.com/item?id=13816627
