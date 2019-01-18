@@ -1,4 +1,5 @@
 # Apiacreations
+https://jestjs.io/
 https://playbook.samaltman.com/
 https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/
 https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
